@@ -1,1 +1,1064 @@
+[
+  
+      {
+        "name": "PELICULAS DE ESTRENOS 📺📽",
+        "samples": [
+    
+    
 
+
+
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/wlzOYuQ8uurwAeb0N64mcoMX0eE.jpg",
+                        "name": "LA NOCHE SIEMPRE LLEGA",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0/2Ia6hr7FrsIRcgj0DlVJgYA7f3oM9bQDzP/kAq4Htt9aqxcy3yLwBFc2e1DI188="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/o0TGKokEK0MUacymHfFPVBjjRQF.jpg",
+                        "name": "SE LOQUE HICIERON EL VERANO PASADO",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9otSFNSSgZYnpnc1glYCt/g1dJpF3/ZjLGwm8/14rb49mgHTOuL44egX86V70/I1Bw="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+                        "name": "HAPPY GILMORE 2",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9pddQ4Z1Ms7rDC6/jNH7237PIX0EwuSHJtEvQRh2hb7QbDq1qFa6qf99gl393RR+fE="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg",
+                        "name": "EL ULTIMO ENCARGO",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9pyjIWAllh0fJjbkER2LZiuqjb6JFUl8uaSFszLqv+ZmVqPU+8MesdwUr7NiNED44I="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/wlzOYuQ8uurwAeb0N64mcoMX0eE.jpg",
+                        "name": "LA NOCHE SIEMPRE LLEGA",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0/2Ia6hr7FrsIRcgj0DlVJgYA7f3oM9bQDzP/kAq4Htt9aqxcy3yLwBFc2e1DI188="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+                        "name": "OSIRIS",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9qIIgAxruFuTLPHk2rqUFNTwbrOnJFaZt3ScWzKYRyTIlqPU+8MesdwUr7NiNED44I="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg",
+                        "name": "JURASSIC WORLD: EL RENACER",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9pZbHkXPYa5Re0CT0bRX/wERlHU8oDGblGpvyYVhP9YNU3gd8iwb6E7bsuZZjKkUOA="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+                        "name": "LA GUERA DE LOS MUNDOS: REVIVAL",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9rhaS8gVDxA33EkzZ9jtSyGoxFlgZfN3Lk/4XiGADxQuu0L2Nv6KCLI7kDCn4SlGJc="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/wnHUip9oKvDJEJUEk62L4rFSYGa.jpg",
+                        "name": "EXTERMINIO: LA EVOLUCION (28 AÑOS DESPUES)",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9rVYXBml0NpOqa3Gkf2xQRguH68N6S/7E82VdUNu7+/Dxe0q1sOm4E/+HPHT+jKqmw="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
+                        "name": "MIS 84 m²",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9ocVrld+c/1GKKlFNGPTCKJRquWZtjIzHAHJGPpN92uN1qPU+8MesdwUr7NiNED44I="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
+                        "name": "MI AÑO EN OXFORD",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9qEIyCQo7eNrJTOEFkURdS0t9pIIYgwuPoYQgKpDTptasYXeYsMBEuEfKoWJJ064lE="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+                        "name": "EL MURO NEGRO",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9qwiQzQkhKtTIICJfFJdjL+SNnaxzp8SKJMImO6RV1Me4I1qba4kvbki46y5UV23Eg="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/eoV4MPGKl0MGLVT56MzrUXUaVxO.jpg",
+                        "name": "BALLERINA",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9osLqGu0/KbOOpoIkXcoKOLikFUMDOG7jCB6fNFkay/y8YXeYsMBEuEfKoWJJ064lE="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg",
+                        "name": "THUNDERBOLTS",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB+G0pkpdxEgOz29Vwl640QSYXD+l2eZ47QLe8bhyftwbo2MpSSVs/XGIb+0wTQomGA="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
+                        "name": "JEFE DE ESTADO",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB+DpgTlZc+XX8AMhJmtSURGCr/XapVGupEWVNjgZsC3y0dLuaI8TM+fV813fz/zZrk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
+                        "name": "LA VIEJA GUARDIA 2",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB8S8i7Qv7DvqvhUurEcGoZYBVuab8OsqhsGc1UYjAU8hC/Z3XHTxiwrjCcTBykWQIk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
+                        "name": "KARATE KIT:LEYENDA",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9q47EsjfxkneJM3WsgDPn+m6j+iprDIToVsB1v0j9kmw03gd8iwb6E7bsuZZjKkUOA="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg",
+                        "name": "COMO ENTRENAR A TU DRAGON",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9p8oLcssJQT6/NoAdek+B1/wk4Nib6KyU5tQQyYg98Xrnjkc5AQ0D/izGHxavc+/jA="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/w8llBJfNIJoQY9UV8p1eOBTyEjP.jpg",
+                        "name": "M3GAN 2.0",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9p8YJzmDXNC4dsB0XnlE6L6zDah1xTFZRIhWr1qUGzw4nRcOFE3sa6j4y/hJKgHfr8="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
+                        "name": "ALMOST COOPS",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB9pvj1JdEYGVZG6xQHxDZjIF1QBoFE/BdK2Zq3ysoQJpf5jm034VJ9bR8uhTdevWkk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
+                        "name": "EL CONTADOR 2",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB9NzVnS9Ybghl+m93AVtq9eRAhB9mDvmzmNoraXOIWxCnM3rgzi6rT3p3VKTlttSic="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg",
+                        "name": "LILO Y STITCH",
+                        "uri": "n742bIuUjWqaO2vQI/0qJtL+ZwAJ9DBE2wBIkJkln9pqm3J/f40CKq86gTK1KPnuKhpmb5qXTJGpL4oUlxj+xJibY+L6C13K9qnI/FwRo+k="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg",
+                        "name": "UNTIL DAWN",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrCxboL82OSwaQEvRbg0JN6hjyJX/07SSu5tCHe6EN0MA2YfuTc9/mdHw/TQvUkg4cfJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+                        "name": "LOS PECADORES",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB+2U2O6Bxh5ExPmpcv1OhLUAA0ZJLhKy2igsDtNCJacIwICcN21X0jAcHVjzQGkHW4="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg",
+                        "name": "LA FUENTE DE LA JUVENTUD",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrAZXI69MYtwa6Di8SxZxr+zt6RwOs3/CZPvW+PHOeeQdzCDvLhzJDCGtofoH5U5o+fJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+                        "name": "DESTINO FINAL: LAZOS DE SANGRE",
+                        "uri": "76xSv3JKy5ikj/LHaQrt1/4JcMwIG9il3mY9lxZjKuunCU5RRfeWVcWYRJ+iD1aOSxte2fiYRfGmQilJjuHqJA=="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg",
+                        "name": "MALA INFLUENCIA",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrPPVxmAIYdwncfitovQCCvNk8/j+XIMrnNpW6olY1WU+Gzge3XeJkDnfSrBFDToWa/JONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+                        "name": "ASH",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB9myEviRXDF5QEF7MQmz+e2kfjeaHIG3AqcVN1hCXqvTTypQOAGZ+ZWjsGXoPU8IHM="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
+                        "name": "CAROL G: MAÑANA FUE MUY BONITO",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrPq02629kUf8k+i+kbfV7LBJLBBXCtfXh+yRtNfeBQGvoa7NmhsNBr4Nht6K209S4PJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
+                        "name": "BALA PERDIDA 3",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB8+VyIsMj5Tt1tUBSfifYSyueHTnGKRHHmhy4WXGHQmeZmebFosQcOFAJExxMtvcco="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+                        "name": "UNA PELICULA DE MINECRAF",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrD2lTQ4FidpxX6r9i/Sza6qd2B2vqihhr0LcvEdnodxt3Pje5MovuH1FuxVY5deYNPJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg",
+                        "name": "BLANCA NIEVES",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB9+1sNV5KbpELr0+idUalHBy+DWFGBrSLzlJ/9w5r3A6IBbRe92fNUhUFX90aeNQBY="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
+                        "name": "OTRO PEQUEÑO FAVOR",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrKudxnYTTLAtmklHI374n3mB4MfTce6RU8njxDf26Werv1V2q+rDcNlxwZQgMzOKK/JONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
+                        "name": "WARFARE: TIEMPO DE GUERRA",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrLF/1etA8iTpblh8Cht+hX4UHz9Kxqu1tjdlQmUZRUtQx7+Boy1upWukh+u0fyr13vJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg",
+                        "name": "EXTRATERRITORIAL",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2jiabfJrvVohUPRifL0TfU5SNYcndUgnrBIWzacS4+4cvfqtW4KMXLd/58zKi/7ZI="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+                        "name": "LA MUJER DE LAS SOMBRAS",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1ONyFSpyw1oVZxtLvDlYviGdzovudOxY3mCJb8H+xklHBJJrBAk0qMEVBF3sQWG4g="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/t9wbkmXzQRALdzLlTz0RbdMpara.jpg",
+                        "name": "CUCKOO",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB9C4WdcF2AxQbSlNR2jA02jUMuJeU5QHXSNpOJFCSLsm39kHRMkH6Ri2yebfsd/p6E="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg",
+                        "name": "ESTRAGOS",
+                        "uri": "0iml6T6Ffqf4pfeZiWlpjqdLxS65S6EDKSYLI/I6EB82K16XcaV9EiMQCUcnJtMvMX+KJXyr1MiiDkYMocrKRX8uSK1AHn08QTcOvkbkisY="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg",
+                        "name": "DROP: AMENAZA ANONIMA",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrAZXI69MYtwa6Di8SxZxr+xE5yO3Zeo0CZY4/laYkCX5TdXOgyxgPRync4W+W/XMpfJONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg",
+                        "name": "PANICO EN EL TREN BALA",
+                        "uri": "2v/YAjSNL9PGCRuPBoJZrGPvbmL+F2BqTcd5XKwV7f9PsMnGY18C0MiDCSX35vS7E1cU/YWdEJlPamJci7xCw/JONUh2YaiCVUIe+/Y8Ewk="
+           },
+            {
+                  "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/4/w1280/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
+                        "name": "¡REHEN",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3ZqW6EIizzgt8cSiLuYXLqCSObnK1TsY+yKzuVjvIzOMBJGkQwojohs1sfi0164lo="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+                        "name": "RESCATE IMPLACABLE",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3HexmIFj+Bzi6cXRIfVaTa7XpnQzngtsAAMFc1ZBeo56A3scGqywpvaWjjvZRD+FE="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg",
+                        "name": "G20",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2I1GXnPN0eTOjtKIh51oyBCDToADSl7KmXIFou6WPR+uuOB9m1k2wVXUQwAj9p4Kw="
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
+                        "name": "DUPLICIDAD",
+                        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2I1GXnPN0eTOjtKIh51oyBCDToADSl7KmXIFou6WPR+uuOB9m1k2wVXUQwAj9p4Kw="
+           },
+          {
+                "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
+                      "name": "MICKEY 17",
+                      "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1yDp8mgjT8U/M06+uxYDZeITWaHzdczJQcg/T6D6uqUMXnpfAQQ7ShcskRce7GBvs="
+         },
+         {
+          "icono": "https://image.tmdb.org/t/p/original/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg",
+                "name": "MI LISTA DE DESEOS",
+                "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1H7tbasWx1fO+k2xmDRq+kYyeF0Uky8w2swNFmE4t9c9QEeL9jU2A4JNQp5AOQy/Q="
+          },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+                  "name": "EL MONO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3U9fHd0IdIxWqvprrPuHh7g9s4CYqiPFRlzNRMdWssnTbzhU0wnJlQ6EHH4s+ChiM="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
+                  "name": "O'DESSA",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3GWpNsS34SbOIQJauq7eunHLgyCcD8/kkbnb7A5wQVKT66jWMR/2JW68VHbGnwTyg="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+                  "name": "CLEANNER",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2GTAOdDew4INIFmb5K3ujLd8jfDxGlCXpy3/N+gEqxzuySH/lSXENxpNdv7yYYwco="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/bp8VfiqYqkQOzf6e8LBv4m53gxU.jpg",
+                  "name": "AUN ESTOY AQUI",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1+7PFs970gJ1252d1rAX8F8WE9s8v10HUeD6YnJC6hefN46rpXrSB90PiKsxpi7cw="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/823ddv0UGGMwMrCNMfEnwj6Dq8e.jpg",
+                  "name": "SUJO: HIJO DE SICARIO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3aI7yFiR2cLfVLB9TPD1JaAtX2GDPC1ePafkg1sKCq6fu2KSfDRBw9eMGSeJXRh0Y="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                  "name": "UNA MUERTE SILENCIOSA",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1zHE3K45wOoTCY5cQtVnzfXMsfcRHPPj72F9Mpo6UdRwWK668+TM4Aa5fwsbyNRk4="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg",
+                  "name": "OJOS CON FORMA DE CORAZON",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0REgfv24uN8hyJGlbpVFvu+EZhD71BPGAOwwmgS0h+W/y4UzVAFDmbpaly/3sypcg="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/kmQb07CrOddVGV0Q73aeU4e8I18.jpg",
+                  "name": "CONTROL FREAK",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3tOyIcuFJB9qOltYCCXkIfGQ7o4yvR3hNOeqQYwb0CxSH59kXXInBg/73Sj/sXpfA="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg",
+                  "name": "SIN OXIGENO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3VUI6G5BGts1o+hJA7CB7aq6+XqiUfeyB+9scTbwsls3lN+X5SNF3MQhM9IuRQ/yo="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/plbr04r5LQhEWcF6oWk09TUu4xR.jpg",
+                  "name": "LA FIEBRE DE LOS RICOS",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3EtTFWN2pK0heBrE99iXUs93Ru6TQuV4+hKlcHstCOcXqf59BY+VNP4QX+ZR2jC8w="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/r5AXD7ZKScWzP6cMTKGpexmjjrh.jpg",
+                  "name": "RETRATOS DE UN AMOR A CIEGAS",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc301KNalNpNn2UOgV+DQL4iHpTZpywA6A5kKxcZB02OVPDglZ8HlXf/wlnUItcMc8U="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/oxySAH7i9PDJnQj261pV7jeb0AL.jpg",
+                  "name": "LA CHICA MAS HERMOSA DEL MUNDO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2JEWasAieiU0tcd19Fv3oXw/C1qdQE59m4VJ40EsF1APwzEzgyxDGYr+9MFkJqOv4="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg",
+                  "name": "EL HOMBRE SIN MEMORIA",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0AHr3+FslbdM6akMpXxGy81i8dfQl+lI4pDnIo0zdGXj4gQUFjRExq/18zKXvRncE="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                  "name": "FRANCOTIRADOR: LA BATALLA FINAL",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0ft62Mg8ZxTMaXXGJRcTYH8/ZqD961pEIkMm+yZc4xWam4/GvZzgkCl4NzbLC9024="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg",
+                  "name": "CONTRAATAQUE",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3qnce4W9/9i8g1BHxKbJTcNANlRQuOTSR0vdVo1Ar4GBx8GhdGLRDrpCHSj2Vub2E="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/zOHNOv5JHzDjDXt24mM9aSXKpSU.jpg",
+                  "name": "EL BRUTALISTA",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0Cp8x+Ho20/0uFEJ+D3C6/c3AdDnbq2vVLEnpIojZcg8QfMcQPaSJZyzyo4jc+yu8="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+                  "name": "ESTADO ELECTRICO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1Xy8/P2ooR81mcehL1+Sl6144r3EpXULlBs+kxSxPfepv0XumyME2u5xk5nY4pup0="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/otXaS8K5coAwmUyGxBsNz9mWs8H.jpg",
+                  "name": "BETTER MAN",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2EMDYWOcXjEP7QFZ6Pzk2uRdWUjiDgKDslZtKIUogrQQP9bXfatXufMJPDhnlsS7U="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
+                  "name": "EL ABISMO SECRETO",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2fTpUobMEcFlr1P43FVjbCpidyA7xK07z4OxPY8doczh3JrBgOlWpNTZKR3iqSZ+U="
+           },
+          {
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAluAAh2aKT3mCl3idPdNQt-hsfIf1eXAsP3OCv0&amp;usqp=CAE&amp;s",
+                  "name": "DE VUELTA A LA ACCION",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXrzIr1uC6nkYfwAsFA9qxyof5YX0YUqjN/E9BiP9uGef859P0JUaA1BFfqVsOS708xdataRh7PoNtp16/gAvGOWwBiwjVTldNYO9gzgTOcaF"
+           },
+          {
+            "icono": "https://cines.com.py/images/dinamico/peliculas/3168/afiche/den-of-thieves-postera.jpeg",
+                  "name": "EL ROBO PERFECTO: PANTERA",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXrzIr1uC6nkYfwAsFA9qxyof5YX0YUqjN/E9BiP9uGefbjISDC7bvHdUhTX9CvAgF1UEWaW3+oeZp0j6MJVzg5gQGS7hAmQ0dsQP+jiX5RsC"
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",
+                  "name": "AD VITAM",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXrzIr1uC6nkYfwAsFA9qxyof5YX0YUqjN/E9BiP9uGefLnXjRTu52h0QhWbYrOKMktyBNwRLrXwit/pKcbEysOE="
+           },
+          {
+            "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/12/w1280/52jpaYuQjPglbNyl6SAm976vCPC.jpg",
+                  "name": "DOCTOR WHO",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXrzIr1uC6nkYfwAsFA9qxyof5YX0YUqjN/E9BiP9uGefNWTYcSYeUrue/ltVwoNFg4Hms1PtmCLoyZn6aWfEuro="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                  "name": "MUFASA: EL REY LEON",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc38prcbRMJQHRWIkXR5d/61PBYhlCwAqPBASeVlv1VsoNXjXutOVc8EHtR58gpvd4M="
+           },
+          {
+            "icono": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg",
+                  "name": "KRAVEN THE HUNTER",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2nb78EhkVeCkDS6hcatxjb7qtXQVTJYNDqV3csY+XQR79D9lSfXhDT0nJL+qjVy4M="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98Ug9LLA2IVIRyCpMYO71rKqyNh.jpg",
+                  "name": "SONIC 3",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXrzIr1uC6nkYfwAsFA9qxyof5YX0YUqjN/E9BiP9uGefdICdegvKol5T3j1HxuO83VXzsXb/JT1kL6zH8MWoYjM="
+           },
+          {
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXxjo5GddruM5Dvlj3BKVoEnorSNyKa0YkjBG4q7pNzyiA2LtX",
+                  "name": "DESDE MI CIELO",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2nqxysfrgmqC/3l0TlGoYZbQaSEnTF06PzxJn2ebyly8wVKYBEQkVC9Dd3cZKMHvpjOqk2qPGE8++VjrEK3yklbn1unGHdReOBxYXrY01EmlvcPMr/u/BcB1x+JHUUIgCm91I6oCQLr65fP0Vn95JQY="
+           },
+          {
+            "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlOKeXBdJLsbeAe8KQcAWHuq69TtDWmKlU3rYoxS4Fmhsrls0Y",
+                  "name": "VIDAS DE PAPEL",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2ptLg6uUmOnqPhcBI+QpYJHARWzYYtDMlpOlfmY60PEov6MuM4pj1CuszsFHADD05cCXs0zREuC2zAiV3cbUpspi2eT2b5QNEgVD3VFNaupbCooy27AeH3/VvHGQ/4iLwQSoKsTcR2F3GVK/Qqnl4lo="
+           },
+          {
+            "icono": "https://photo2.tinhte.vn/data/avatars/l/3196/3196450.jpg",
+                  "name": "CULPA TUYA",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3jI+qgfno/YImGgb0eNzssN4TCrk8J5NskP8HBkWQ6g5R2pA2AyjvpjeA7+Bv4PjE="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/1b2sEjyhc6kqZD4SazdVlVLuIyh.jpg",
+                  "name": "MOANA 2",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1EhPYJ2EhYPEkyyBlKe7AYSTweO3DlP1Hr3ufged1Mz6XY2BE6DKL7BUBzVHXGN7I="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/ftIJ42zwuFvUFVEWZQbFq1vcV5U.jpg",
+                  "name": "CONCLAVE",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc2MqSImWkTSXQQ4rmGyiw8q5Hh26ZUHpAj3EWjLtIdx3/xcRIEhLETYlkY/9VnV7dU="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg",
+                  "name": "GLADIATOR II",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3OgNCexxYwgkqOiKKSPLPKb261cSHG23HqOB0r+4xaNyYhKET0pMq/97jIDPH5D6s="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+                  "name": "APOCALIPSIS Z: EL PRINCIPIO DEL FIN",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1ry+qUbRMc8Pcwj2nL4uGPmmwKSASy/f8Y6v2LOwWpeuQ23VzO/Lv1viS2eK16p4A="
+           },
+          {
+            "icono": "https://upload.wikimedia.org/wikipedia/en/b/b5/Do_Not_Enter_%282024_film%29_poster.jpg",
+                  "name": "NO ENTRES",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc09U2FHq0oU80vPauvIJ9Lf1mPslULGT3daIljFeFznEwSdyjK6mBXstHYhI9+xq9Q="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                  "name": "TERRIFIER 3",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0Q51JKXeLtWSNcnGQO3thwSHDUhoCFo6q70OYYt2cPaMek4q7tojeupDUN4xUY5Rg="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/original/toZiAd0n0NKhiuHTiGk7kBMmhtG.jpg",
+                  "name": "VENON: EL ULTIMO BAILE",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1fHO3dQTTQ7FWxyQTOShNeqEpeSlMiHj8zR6/Il+dNw/VlFGDu04iWcvzW1nPALuc="
+           },
+          {
+            "icono": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/11/menendez_el_dia_del_senor_santiago_alvarado.jpg",
+                  "name": "MENENDEZ: EL DIA DEL SEÑOR ",
+                  "uri": "SOxxv1o8GYiF0uOBr28BMUeZE0rmcgx5lGF8FO7Dess1SDILETi/0JYJMZxweWR9fEafgSZ4Uz5CyZm3taHMVT7hKZzMhLrCrUcURU5hufI/39rspSF14XzYYMvnwQYvlzdbZj5MTAE088cCS2+U/Eb8ROe4o/rjAlJVNxfkgt36h4ds6Gqtz6N8yQ0KxrfZb1q1A3vILynm00qZbaeFSNyGb+kITic3wruQtDuI0S3H4Uj/9rERAYhE+D5xf8PJdHjyhZVD4/l1Jl9NGNdPRS/9sLdaAlEcLpdA5JVi5jpnTQfEslJ3HLBgbUOQReDko1ixyyYDSBziU2Bi5R6A31OC+8wOXA8ArOzsNVQNhDZu+z0cAjDEtMXzsj03TtIGjPRyXZ24KIaIhhpMyGvrFqLhge6TiA8/KBIENuy1c8PTfX/Jc+cTRUWGluA4LjlLXD/dww5TWxw7rl3vPAXJQXM6hdxpw3OI5+zp2SyaO6CTWj2St7hBrl8vicqrU2g4S2uKisEghNGUN0I7ZLfNzunzo47lXsoZTqnG4mpzhQvSuMLw+a0GfvnRrc8VlX/NjGWD06XXcGxlXkD25ArT0gv8jwOMh1wCDBM9QGSUlcxdQCo0tQOGcX2AHm7NinrQ"
+           },
+          {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/10/El_hoyo_2_poster_espana.webp",
+                  "name": "EL HOYO 2 ",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1Eu4bzh7TUW7AYD+s4K3wwHi/lRim1iL5wdt/t7qutVlFp8na26AXkjqzZxbHlXJA="
+           },
+           {
+            "icono": "https://image.tmdb.org/t/p/w185/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
+                  "name": "LA SUSTANCIA ",
+                  "uri": "DPTL3XSHy+55wll6Xw0sXih0maz77exnDvnZTZcubwT1+25Qun3oA/skYgEYalTr/7blBSGrWqGmdGxOG322pqmDc6ngqOyj2Isi1Lxo8rU="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
+                  "name": "EL JOKER 2 ",
+                  "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0OxJCwgiFhqFopVQZxzUySAvtQyCSK21cSu5eLO0yLQ4ghgIKxzlNWhLTd6zqTVHE="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg",
+                  "name": "OBSERVADOS",
+                  "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYTu2dqU4omTkvNQTcBLlK+BtbkQHKa38+uFlDy8Oxs3CLZT7xXKicWL9nJI9YLpan0="
+           },
+           {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/08/incitadores-2024-(POSTER12)-200x300.jpg",
+                  "name": "LOS INCITADORES",
+                  "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYQj33mNa3epbqkXAZuPRupOHkXQsBSdlqKPZ4qZwckzvPqggm75qxcNoIulTls9svs="
+           },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/fHLTsVtN8Xq1DwNqu1YiAAtu9tU.jpg",
+                  "name": "BEETLEJUICE BEETLEJUICE",
+                  "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYT9T1WwaZ1L06WGHpxjaZCZMLdIHSTCEH6pcXOy+hJvTb+6RChghBYxS+QMj3KDz+4="
+           },
+           {
+               "icono": "https://image.tmdb.org/t/p/w185/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
+                "name": "EL CUERVO",
+                "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYRiRFris7EX2YcKYvJAvflAmSitykYjbuRxq/REUqbIug=="
+          },
+          {
+              "icono": "https://image.tmdb.org/t/p/w185/ynqqkPy8RiawjGtWFIsF9pmYZtJ.jpg",
+              "name": "TRANSFORMER ONE ",
+              "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYT3hWxFvv5+HaF0Kwd26/odhmh6TE2YgNySgJsBjdD13xkzHMu8sdn1NUY3vXGU47I="
+          },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg",
+            "name": "HAROLD Y EL CRAYON MAGICO ",
+            "uri": "mhaEdfzIYmgsygHAdmLynFf4uqkf+uAWyJK+bfGovYQMQ2VlZHsDUN1zG+AFrWoN9/YrmNRJefWNT2S94k8SeCPD1VwkdDPJ3fOwhfnB30Gyv7ELgmsQM8tci5LwcV+1"
+        },
+          {
+            "icono": "https://m.media-amazon.com/images/M/MV5BYjYxZjg4NDktNGM0My00ZDhhLWExNDQtMzgzMWE1ODE1NzJlXkEyXkFqcGdeQXVyMTQ4MDUxMTk1._V1_.jpg",
+                  "name": "LA BODA MAS HERMOSA",
+                  "uri": "ftKN/d35I4fSo9Xvsbm8bNCsiY6xZ4TopoNdcGQR1nSsIHsrhHRpVNEs+1A+O9XklSJ2w5L4Nre+zmnoBSe6+aTSZuj7eVGD5VB7+jneTdVP3t/E3fX0MJv/GSe1UGscK1stB55ytdxdQ63IE3LqRiXpt44L51IsugBGbTdCD2EZMxzLvLHZ9TVGN71xlOOy"
+         },
+          {
+            "icono": "https://m.media-amazon.com/images/M/MV5BNGU4YTE2ODQtNDdmNi00YmFkLTlkMjgtNWExYWNkYzM0NTg3XkEyXkFqcGc@._V1_.jpg",
+                  "name": "SUS TRES HIJAS",
+                  "uri": "ftKN/d35I4fSo9Xvsbm8bNCsiY6xZ4TopoNdcGQR1nQEa+AZ+8/TypjX+E4ifV1qr3Xm1Hue7WRq82KWyS+YKboodoIpTSMX68NnaMpjOdKsAzBL8FvB3cTGWfm+eLv9BbvAwO8qrdJaZAWZ2Y8EMDO+aGXvb7t1LKgs6cRqZ/frq5eRbIYwo6FVHNYZlF8H"
+         },
+          {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/09/los-feos-2024-(POSTER38)-200x300.jpg",
+                  "name": "LOS FEOS",
+                  "uri": "ftKN/d35I4fSo9Xvsbm8bNCsiY6xZ4TopoNdcGQR1nQ8o9mZBm/MnvxxxRgEiB2UfEPyFJ+ftVZzzxbMop7euDF8/ggYOCcQ92PqygI26DatXw2KA99d7aIrRyxdUdDMuGnsWEf0k/pTqE/MGG9sqw=="
+         },
+          {
+            "icono": "https://images.justwatch.com/poster/319800288/s718/hounds-of-war.jpg",
+                  "name": "HOUNDS OF WAR",
+                  "uri": "ftKN/d35I4fSo9Xvsbm8bNCsiY6xZ4TopoNdcGQR1nRiBHl46M9ut5/0zhn304cTJQEbE04rrZzT+ha3cKJA0Zb1WKCaHyU5nS41u7CNWgiYj3rKRIo7bwpdpQlhY7VsL2TIhg4+EFmIEMGZ1yzMKrLzmfwm3XYMfZvspSpmKdU="
+         },
+          {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/09/rebel-ridge-2024-(POSTER100)-200x300.jpg",
+                  "name": "REBEL RIDGE",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2rWC19GVCQC1DBK4Sxf8ShQC4XPfbPWxZtZW9aNz83v1Qn8cgcvSrBjKqqVuiZWPJzj/FXQcyHbEeigqAJNYbhSkVHb+PWxjbHlTedaCWoTtX4PyXaLnKGO7SGe2Y4uK3gjhvDiw7fMIySptc6hVpKI="
+         },
+          {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/08/la-liberacion-2024-(POSTER2)-200x300.jpg",
+                  "name": "LA LIBERACION",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2ouISR3ciT2tcz6I55TW/k7+hJ1sBrhovB/+R9wksdeFy2dIHjZ2Xa5N0kgP5RBsahw5+DOD+exv3N3XITDfFRblgUgTe6kLwMNcAWcMrQi1iN1fvxZ4ivHu+VlRJ+72jQz9dK5WQmyh4pUJnsqpOJo="
+         },
+          {
+            "icono": "https://dl.dropbox.com/scl/fi/z76qo1j4e6f3lhb5wojj8/bad_boys.jpg?rlkey=yah7otombfexlhfompny5bcnp&st=85krredy&dl=0",
+                  "name": "BAD BOYS - HASTA LA MUERTE",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2sWGVZCi01kWDM36EXES9XHggYoyh+1Gabna5sASCOuW3gSbxU8QrDEGFJyPMPfvC40Po+E4PBaNN0d/o9MLI3OGW7h0lo4RI3ReP1Gv5H2Ehvf0BJQvpFyeghOh3XYya6FMtuMi1t1U+rhrTUzFk8aSI0Xew+DHaFxtQzcEblWP"
+         },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg",
+                  "name": "PARPADEA 2 VECES",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2jSvfBmfb5/otV4rFNkoJKRBaHHWRoyENThuiu3AXuy3IaLKGgNnzOY1w0OG8rBVaIsVR0uAyrF5F0uYtZHZQsOJye/ekVOAB/4yzNFWVYvyWjg0mITA+JtDLYNTJQzNItTHIgs0h20eB4um+9ZabBo="
+         },
+          {
+            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/08/Chief_of_Station_poster_usa-231x300.webp",
+                  "name": "RED DE TRAICION",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2qnGylo5JqLzYiNIs/mCUO0K/o4EhR7Csh4/1OHNHgckXwISqW+qKwlST6AnJL1L+oqB9+hydLOK7hBHylZvfidtTqL+vnk6NHxjiRliv6s5sPEC8hxUuZd53G/B8ipfQ+hbRuhmxPMNE/lzz798Wdc="
+         },
+          {
+            "icono": "https://image.tmdb.org/t/p/w185/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+                  "name": "RESCATE IMPOSIBLE (2024)",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2rcIzBbDhz5sq4soJnfoHHh0YVJeYzAnQFifERIgCC9h1YHJnlezTxlUaYq4CsK0tNdEqASbs5VO31/52VpfCdZkwtyRnRvVXV3SnZGL/Irl+WSsTyo3PwAtRJQIT1XaiYroNikUjc6vGkLJuFQqtzc="
+         },
+         {
+          "icono": "https://image.tmdb.org/t/p/w185/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+                "name": "ALIEN: ROMULUS (2024)",
+                "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0gLBdQ0cOXM7p0B2nGnS6LvlTSjQ7Uxq6FrYK3wxmDZ2S/E7MIIaaj5NrwYcm9jy4="
+       },
+          {
+            "icono": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&w=256&q=75",
+                  "name": "DEADPOOL & WOLVERINE (2024)",
+                  "uri": "tLLG6q1mA4mW4H/+4ahY2pE5/MMbuk5XmayxEM8mDQWB+NY1x7Mn2KKsIzByLArbsQ65OTxmfmntmoYpGqLblZqCe6MTjdw3NcBcPrshvnh/VK8jgKTiTGg6NZIo5boaiXHWPuFy+AP6/npshv9moWRhBkboiKzFtnEZqNSbPEY="
+         },
+         {
+          "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU",
+                "name": "PRESA ",
+                "uri": "tLLG6q1mA4mW4H/+4ahY2mk6+5uxIZp/5rm4Z99sWNKn/DOTf/SIWWiBkeWHa/jm30287cUmrTEsH8wL+W7p5ZdAi9PhH9kzTLb1QkhK1EYchrLjHkjE4FXQEffwzhyVM9nCpwaZ5Z7EfXB409L2dw=="
+       },
+         {
+          "icono": "https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg&w=256&q=75",
+                "name": "MI VILLANO FAVORITO 4 (2024)",
+                "uri": "tLLG6q1mA4mW4H/+4ahY2ioSZhHPuEmZ4wX98Flu/A+Huh5Jcsrh1sTngkNykItsGK8V5ICbKZvqS9V1DlXMSRkUCYKM+sHGPzBDzDp3MxlCEUHKz5CtZ/as/Kp/oAQcRaWZgoqx1Yhz5fO1Uf5k4QUNcDpWBwQyGH25d7Otm/uSI0Xew+DHaFxtQzcEblWP"
+       },
+       {
+        "icono": "https://verpeliculasultra.com/uploads/posts/2024-06/1718436925_del-reves-2.jpg",
+              "name": "INTENSAMENTE 2 (2024)",
+              "uri": "tLLG6q1mA4mW4H/+4ahY2mvSxdIJdUH+Jh6X+m2NBQl8lHf1+LB+Iwc5zpqGKbUywW2gYzdg24zmieMfpOyj6XClmrMJJ4L7htFY0rXe29XqKMFgAvrbM7iSx/sHUYJUVqjtMX6u6/H8kGd4Cxpb8VPEB33XBU0QEOyjqYqqgsc="
+     },
+          {
+            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dune_2021_logo.png/1200px-Dune_2021_logo.png",
+                  "name": "DUNE PARTE 1 (2021)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaGHl9roq208VoHkXPHrFFsovu1mqE9GQ++aEHXTRKFyjjHkyW9JiPdCNxZ02L/axXN8cBoxWvbidgh9SIYfNcY="
+         },
+          {
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhBO_1fbco_o3sK4ndjChCSbGg5KjeT0_tOq4xh4P&s",
+                  "name": "DUNE PARTE 2 (2024)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaGHl9roq208VoHkXPHrFFtQ5JAN+NO1hpm6cq7y7FHueF0WXv4/9v7S79nM/TIg3Aq8Jcg0+b6S5cX5gQQ2PkNLzZ3bk8EQE7ghr7/5yxgv"
+         },
+          {
+            "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2T6rI4dyR77NX4OGoDhq0wjzfh-rnVB-tA9lRUy9XpA&s",
+                  "name": "EL ASTRONAUTA (2024)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaGHl9roq208VoHkXPHrFFtU8k8hraFf6E8Os5enkx5IUZSJATOD6Ats8JbFLw3g4HAZ3D/LmwaKWekhRSlZQitrEvVNlmHFOk35Vp3CUrO0"
+         },
+         {
+          "icono": "https://static.wikia.nocookie.net/doblaje/images/4/47/CTI_Poster.png/revision/latest?cb=20240109034642&path-prefix=es",
+                "name": "LIGA DE LA JUSTICIA: CRISIS EN TIERRAS INFINITAS, PARTE 1 (2024)",
+                "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpXcsyy4b4gDXwh9omlJoZaj/T3JUyBUEJpZiWY+BeeZa0WrRrZYI6EHKzVNL2TryaT4mG9w+Dn4vlSQ+YoklmAtS+1G3kl7FqiOuasAszBoHCTb9XbyJGpTEwmy622Ca/vy/EmF2js3uhHbAsiviPUVtAmFwHUHRSr3CT9sb16BVqPgP0vvp1B3nMFepaFxvzB3iECdhD19VEF/WtgDC568="
+       },
+          {
+            "icono": "https://m.media-amazon.com/images/M/MV5BNmEyNzNlZjgtNzg1Zi00MTZjLWE5NGQtNDljNzUzYTJiODliXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+                  "name": "CODIGO 8 PARTE II (2024)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcAkwOtoCFo1soq/PTY8i8D0A8dbQdwcnCiS1N4FuUtSKMTVEJ5yJqVYseemkZDfZZ2N0EZ5gaUerW8LFHIhgJCYSp/25WwtRtu/7l4kQfnCQa8xF3ZnxlpCUXYTRzAv/4w="
+         },
+         {
+          "icono": "https://image.tmdb.org/t/p/original/4MVGm4eX8O88d8iWDRyojEUmm6a.jpg",
+                "name": "UN ROBO DE PRIMERA CLASE (2024)",
+                "uri": "a4sl85BcN/BoZbymZQx7XD6seGwJYidFNT23a1y8RezOqa3ALPzGEpj+n+0tGeLUgfMnzXpG8gzt8hgqkrO3v1/pS9svvlTbFPgP9AE8rky+xB2ciKmn1WGuy9huobcZrktX/jlfAfrsSgXzmx2ncVj2x0c/69/7IXRRoQTffsaWwcUTrVyA+0Wn4w6dEoI04IojztgZgmj/ALqfOFw0+XN7nbnLF8XTQ/Nbwdk378ANzI/8LN9hAZth1b2xh4I3vf0tE+4NRj5Go/nSemS3EsvEXVK5Oop1UciXI1YUCshS7Ht6DYVzgbYASHtyVOkS"
+       },
+          {
+            "icono": "https://i0.wp.com/ossom.cl/wp-content/uploads/2023/05/Captura-de-pantalla-2023-05-23-a-las-16.38.15.png?fit=854%2C423&ssl=1",
+                  "name": "POBRES CRIATURAS (2024)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcDqLeYAWxDHvqeVj7UjzSD+l29+tXSqjSBZOuCYw8AZu5aeoODXJTF1uQHmHkQ8VhZfDFACHIxWdinJd3ZhKUL1"
+         },
+        {
+            "icono": "https://i.ytimg.com/vi/DJCwkoYQZ8E/maxresdefault.jpg",
+                  "name": "CHICAS MALAS (2024)",
+                  "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcB/ane8EiJJNhZEhsiJcxtocnb+9hsbaFHj+xLGamGmuuKgdoOzpwz6IIvM3TtjSQYMven1hni+fRxTB2opaWpD"
+         },
+         {
+          "icono": "https://pics.filmaffinity.com/Cazadores_en_tierra_inhaospita-599548550-large.jpg",
+                "name": "CAZADORES EN TIERRA INHOSPITA",
+                "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpXcsyy4b4gDXwh9omlJoZai+Xg76fMmLx/bEN1Yx6SpuUpUo0RpKKl8XUlkn/2m2u5mm6GOT3cJgTWdusJ4v2ELknDHy72MMwu4wEvUnkMje9XB5742S+9uLMhn+Gp9vYAf4VhnhAnHLla+Q3KQwfZw="
+       },
+       {
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/d/da/Snoopy_presenta_Bienvenido_a_casa_Franklin.png/revision/latest?cb=20240217003101&path-prefix=es",
+              "name": "SNOOPY: BIENVENIDO A LA PANDILLA, FRANKLIN",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcClJI3Hr2JHWvbdbpnf+c3T4NLggtoRTCscURsVW+cIH7dXQYg7EB72DDyeZjDfvbOJiUdI5uBwHiI4QTZwpYCJ5Jwx8u9jDMLuMBL1J5DI3vVwee+NkvvbizIZ/hqfb2AH+FYZ4QJxy5WvkNykMH2c"
+     },
+       {
+        "icono": "https://tijuanaeventos.com/wp-content/uploads/2023/12/Bob-Marley-La-Leyenda-Pelicula-2024.jpeg",
+              "name": "BOB MARLEY: LA LEYENDA (CAM)",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcAYUKYB/TKh3Z9LEYbYLk4aVub4eDccr9hAefKm7o+ubMhS9taz9+4PaMciracKlakNBunti1Ey6kaI8bOg0ttX9ND2K6hIy7OqQcFa/Pb5QA=="
+     },
+     {
+      "icono": "https://pics.filmaffinity.com/Los_juegos_del_hambre_Balada_de_paajaros_cantores_y_serpientes-131768402-large.jpg",
+            "name": "LOS JUEGOS DEL HAMBRE",
+            "uri": "a4sl85BcN/BoZbymZQx7XD6seGwJYidFNT23a1y8RezOqa3ALPzGEpj+n+0tGeLUgfMnzXpG8gzt8hgqkrO3v1/pS9svvlTbFPgP9AE8rky+xB2ciKmn1WGuy9huobcZ/E5ozpifRO0bh3u1vKmJouAalBSYCLgLvKeEgQKE/uPxmWy9kwoke8EHfnNZzo2h+p/tyjiCQq0AiAu9EPWhrPgwMwfXaifYQ+HEtQq80onud1QM4JiIM55rIYHN3OT3zcTAd4M8twR6P/aI7FZS++nweITwJ1mjq/G0mFN9NpbsOgjryGlZeUUU7PBprnsBX9HAIBIxgTalNFB8Tikg8nJxNcNYQAX3B2Ezn72d26o="
+    },
+       {
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJhH_yM5thwlPGQPa5zNBv_kSz3AG6yM-NVoUv7uyyBw&s",
+              "name": "LOS SEGUNDONES",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpXcsyy4b4gDXwh9omlJoZajrlDp+HKMfP+K8xcRLO3u2J33cpC3FIAfNP7LpvN5mJo4x5MlvSYj3QjcWdNi/2sVzfHAaMVr24nYIfUiGHzXG"
+     },
+     {
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuE87OQfUFs0MOI2sG4SSOc9aW_KZrKvauAK_QRfz7w&s",
+            "name": "MADAME WEB",
+            "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcBJKPiE7eFuhGTwFQ4p549CiJxJF1nCk2X7bfQcXJmlSQ0G6e2LUTLqRojxs6DS21f00PYrqEjLs6pBwVr89vlA"
+    },
+      {
+          "icono": "https://pelisimg.online/cover/saw-x-1695976461.png",
+                "name": "SAW X",
+                "uri": "ho1EYPxqZZ+l1uDybVLm+gRj+CKm760UDODGs/Vk6/7A34RuiYsE5diwYzzmUR5MKpKTkEN8XLGEtIdtSNrBa4uq2qkPGeYo5z7Bmi7NhOjNGe6M+WPGe2afSANxZIbCmyoAKQRm1XIVKhhALAc9rg=="
+      },
+      {
+        "icono": "https://pics.filmaffinity.com/Ferrari-290209166-large.jpg",
+              "name": "FERRARI",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpXcsyy4b4gDXwh9omlJoZagl7zwsRa5dWGbUJDjAwjDIV3195+I2FS+hn5BOG1rXos1yackwGRRdYeMvxsVED40CX62QQSXFMIZILzdkc4UcEgoaA0pUQkheHg5Mcm+4zQ=="
+    },
+      {
+        "icono": "https://pics.filmaffinity.com/Good_Burger_2-397108565-mmed.jpg",
+              "name": "BUENA HAMBURGUEZA 2",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpa5KNOLS7r8P4slj8UJ2YcCHX8vIeIaocoaTHNmNko1NWXWqIYVYqBRpYkEod3zi+yhZyJRJ9kM5Cwjh1hwKOEZuKBWsQ4KVUI6WFu9RyNsTjYvk30IhXbGK2YXvs5Aesw=="
+     },
+      {
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YWDPd586e-sTo1RuU9tw3-QMl0mWJJGcaVptlB19sV4UqzcM",
+            "name": "SEVEN: LOS 7 PECADOS CAPITALES (1995)",
+            "uri": "tWaZ87V/uq2f1qJGfpaUZsjpYXGk+/hjGw4DyUj14rhH7QM3jBX4+/yhH5XALjEMpirjxdnXei583Ir0X7bMgA=="
+          },
+          {
+      "icono": "https://i.ibb.co/TYyYtpr/avatar-1.jpg",
+            "name": "AVATAR:EL CAMINO DEL AGUA",
+            "uri": "VDCNBpvzMcWyh/rqUAUN6Wcx/XE+suZeGrLWanISktzh2G0PB6YX45KsuoGn8nqw0r3sZ0tPoJUfjRNzPuomqrR05cim1ckdOJ3m5cdXPdU="
+          },
+      {
+      "icono": "https://static.esplay.one/movie/cover/original/2boac7AVHAFPS6rJGSTaefjwFkv.webp",
+            "name": "EL JUSTICIERO 3",
+            "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaQJ4Qof7H08Pr4NCN+OEE7ct4Zmr1S3wLI1FNxgbgB6ShcXIZ8wkLPdZX/bSdt7fApHIol/p1fXWFco1HhzvCLpo9COWKHlKv70gbsuPh2VzoH30lomSVA0xunZR/+4cg=="
+      },
+      
+      {
+        "icono": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_56861.jpg",
+        "name": "TRANSFORMER: EL DESPERTAR DE LAS BESTIAS",
+        "uri": "a4sl85BcN/BoZbymZQx7XD6seGwJYidFNT23a1y8RezOqa3ALPzGEpj+n+0tGeLUgfMnzXpG8gzt8hgqkrO3v1/pS9svvlTbFPgP9AE8rky+xB2ciKmn1WGuy9huobcZHf6Qkj84CPde7iXX9xA8BtoeqnBd7STcnai9xApjA3EsB2y3WHdggURZ25Hkgn6uKKWhpDuTVwpH0qB1qjyb7rxVvDUR8ecP4/yTWt9a87eUVy3pPzitINi18djcuK4+CrwlyDT5vpLlxfmBBDY+Q4jIu9X21ycm5AnnuniZEMPVAYEKH5XTG3Qy2Bbx22F8"
+      },
+      {
+        "icono": "https://sm.ign.com/ign_es/cover/g/gran-turis/gran-turismo-the-movie_rx77.jpg",
+              "name": "GRAN TURISMO",
+              "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpSjr+17Leb2hrLdR/Tmtdwe202GYHsB/sm6/Hxxer+DFfbgPM/g1ueasTpci3ziJ0wiNDs5UABMNFCB+wEqMAC1ZMlVrJO0+cVCY8hlc/hn0YAEXco/dE886FFOvhc+7jaQdwsGTyVpGie7ZVmUevmE/JljNiBEs7AVumCCfmZXj"
+      },
+      {
+      "icono": "https://i.ebayimg.com/images/g/TbQAAOSwMAFlDE-W/s-l1600.jpg",
+            "name": "EXTRACCION",
+            "uri": "VDCNBpvzMcWyh/rqUAUN6Wcx/XE+suZeGrLWanISktxd/WzalLBYwwGIDyIgjF/rvzU0NXeVHEeKiB0yty3XJQ=="
+          },
+          {
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBHwlunCnJEfYQ4R7eAKGW-C5rtE4heDGz-CllxUyT3pOPqy-",
+            "name": "RADICAL",
+            "uri": "C9WEWk+QuQ48RfO9XTDzGCAZBVCAAvhH/FnaghhwPKg8dB5AJ/heBu6rbKnMyHcN3QlnJS+Gng2qhFvLdJkRFcGKWthLyqYjzbsm562FqJW2G+JABkM34nRBPA2FsMRw"
+          },
+          {
+            "icono": "https://pics.filmaffinity.com/La_madre-219102487-large.jpg",
+                  "name": "LA MADRE",
+                  "uri": "/p3qhnmHbJQiMcdCF3GVxj7V/Rp51ue6+rVr5EbVc3v+dUD3YYan2NDW1D6zHJDhX+G3lsCMLYjwz17+wKZOfQ=="
+                },
+      {
+      "icono": "https://www.cine.com/peliculas5/125826/125826_0.jpg",
+            "name": "REPTILES",
+            "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaQJ4Qof7H08Pr4NCN+OEE7FbA8QwebPDIDzuf0QXeARCY28bUTquJDrco3mi3EBFTJOdEDxGLWqfD2Xrcu2VNRhFyXwboBhWCB/AZzv+GnG"
+          },
+          {
+      "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFkE65cnrJlTcz1l1SF8PctGv0KlYauJmkEXs44M-39_9wuN9p",
+            "name": "MEGALODON 2",
+            "uri": "i4wovNEn9+MN3StwICNxyMQIoPRMZKncMuPpIBx3is3+UquOnfkMIOG7sSRuJybCK/cYJt0249pED7XNKecc3Q=="
+          },
+          {
+      "icono": "https://i.ibb.co/NV252Px/magic-mike.jpg",
+            "name": "EL ÚLTIMO BAILE DE MAGIC MIKE (2023)",
+            "uri": "/p3qhnmHbJQiMcdCF3GVxrremsBC5JefVmyt3R8Ab5q4X2+rpNRFr2yjO/3CbDzBZKqjHhNQiPR+S7konnBaQrZT7xXKicWL9nJI9YLpan0="
+            },
+          {
+      "icono": "https://static.cinepolis.com/img/peliculas/43372/1/1/43372.jpg",
+            "name": "LA MONJA 2023",
+            "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaQJ4Qof7H08Pr4NCN+OEE4m1yPo1pqQtfMHJtPW89QvgOy3fG5NcufzqvJza5RNk44x5MlvSYj3QjcWdNi/2sVzfHAaMVr24nYIfUiGHzXG"
+            },
+          {
+      "icono": "https://gluc.mx/u/fotografias/m/2023/6/16/f768x1-101247_101374_156.jpg",
+            "name": "HUYE",
+            "uri": "a4SDG7gDVrqB6M4zTIlKS9FbQlNMN/+vf2Bs4aGixXUCahaiih+adGqQYP7jLgi4fMvpBXCYyL1IIt0AcBemtn2hkgkZBqYhq1oTHJxPX/jcMyZ1W2U5tYezj4Q91QXqE5YVhXiy0sc0Elb8IxSpWQ==",
+            "drm_scheme": "clearkey",
+            "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLT7HN5cnwoR5y+T+g9PCdfl7pxcoA6tD/3OtCvadPMY2SV8mYx/IlgnZUK7xuKwoLWDpffoGu5L5g5NyUK5Ds0mJDliOmqak4JP77o4zC7dVcEdoZv6ucTV6jxbthRjaDA=="
+          },
+          {
+      "icono": "https://static.esplay.one/movie/cover/original/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+            "name": "OPPENHEIMER 2023",
+            "uri": "C9WEWk+QuQ48RfO9XTDzGCAZBVCAAvhH/FnaghhwPKhVPhjqw9T1E0S8QfM9iX35CEjEsbPnu5Dq0T63bpssYWJUo3ug/X1tZP4mw1zK+Qpmwan9uuNvs3B+D8iVhKeE"
+          },
+          {
+      "icono": "https://i.ibb.co/S00LvNy/scream-6.jpg",
+            "name": "SCREEN 6",
+            "uri": "VtQ7r84chdPCVXSfyPKZbQaaMBB6/XpxaE2mpL+KfAE1lc5wSWc+RA5vRmrOvy0O+kdWJNQD/0VteizNmfOa8zd5g/Qqy5DwV8+ayymnvBlawDYQxt5bSPam3y+gOfWZP6LnU0M/vVNbIuzcaCiNU1mzuQFWHgkFejwVOHJWW0HioHaDs6cM+iCLzN07Y0kGRhQIB5Y3ev2zy4Qv6iXOuLnVBpKl7usA2wxD3IXyW7k="
+          },
+          {
+            "icono": "https://pelisimg.online/cover/el-rey-mono-1692434974.png",
+                  "name": "EL REY MONO",
+                  "uri": "LXjXI8OTMgK8GxjdZNHuXARj+CKm760UDODGs/Vk6/4wD8lkdFivgcp9w9xsHfDY6bDyv7RfkUkVfugIcEIgtZHLCnX+2CBS3sNCGz5JAVNUK1zHYvDv++roaVkmByZW8VmNWbiAi8ofDozztM9GuQ=="
+          }
+          
+          
+    ]
+    },
+    {
+    "name": "JUEGO DE CALAMAR (TEMPORADA 2) 📺📽",
+    "samples": [
+      
+      
+      
+      {
+        "name": "CAPITULO 1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0a4tihrIM0TN5BE0d6AN6IVAia7WqkudYPqgFeUqNPwfSd+PyV/WBu0e2a8SLMKIA="
+      },
+      {
+        "name": "CAPITULO 2",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3x4+1a36d/j/Xw1sLza6Rm8FHv6mnuixu89EvIWaiur98rAfP5k9iJI1qRo7mI6Oc="
+      },
+      {
+        "name": "CAPITULO 3",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc0whxtBQyTd65bYtSCk3CHLLn4+4JrjR5eUpM+Z+ymeucEF757KzvzlrrN42k4OCYY="
+      },
+      {
+        "name": "CAPITULO 4",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1WhBD4P+F9oj4ed4t8lHqL6T+QWPkuz/xJLEk0z2yXQscg/hOKQNjVj9FNA2oAK6U="
+      },
+      {
+        "name": "CAPITULO 5",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc3OiC8d7ew1kJreZQhsxh5ddRW23okJPuFsp9pe55WtZasIPsobbALy+KR5f6Uj2TE="
+      },
+      {
+        "name": "CAPITULO 6",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc1AOoolKoD3fxRF1JZ+OtfFgVbZ4prZicO1itgeA1N4jMLpRZZ7A5/vGXLLUsakKLw="
+      },
+      {
+        "name": "CAPITULO 7",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4Me1TIU84ZOIPA76be-qKHrV1hPzqfPzeg&amp;s",
+        "uri": "4DbgrdfDI8gxoRUSr2sdzLlhRD6bw2pNrA8Rd+D7bc20AL1SxL/g1GGnRYztW+f4BwBywaJN4FzehWAmds3jt4JkJkCNA+ecgeCsi0zmHvA="
+      }
+      
+    ]
+    },
+    {
+      "name": "MERLINA(TEMPORADA 1) 📺📽",
+      "samples": [
+    
+    
+    
+    
+        {
+          "icono": "https://i.ibb.co/J7dcnnL/AAAABc-I5-SSc8tsgcp-T-6-RUHu-B0n7iu-Z-d9-DBIJORf-PL-AOim-Osg5-G56qn-JHTY39-Tl-AGDew-FM7-Iq-Vc-FGfl-R.jpg",
+                "name": "1.Y UN SOMBRIO DIA NACIO",
+                "uri": "JuWg1SmpyRHqsNn+GuFIMdHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a3wkCmb7TEoDWVWPD/SR1jwMPqKCQxbtDnyZs7ySoyLr"
+         },
+        {
+          "icono": "https://i.ibb.co/7WVb4gL/AAAABRimu-BP1g-FARJ2texm-P9-BRCp-NBHS6-BPxyw-XYxqxfg-XWr-DZzrdd2al5-Ic5-HSVQj-IPZz067-PBk-8-WODw-De.jpg",
+                "name": "2.EL SOMBRIO ENCANTO DE LA SOLEDAD",
+                "uri": "JuWg1SmpyRHqsNn+GuFIMdHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a7owwS3eCmx/tdfD/WrmpdfHVtAciBQkfV15Am+PJfX9"
+        },
+        {
+          "icono": "https://i.ibb.co/D7jzB50/AAAABb-Pd-O8-OO3w-Ib08ps-CFq-R9zf-KRf-FKOHj-Cgw-Djfjs-Je51-EIa29w6-Pwp-Co1-CX7-OH3azau-UMo-BCt-Jy-Ks.jpg",
+                "name": "3.AMISTAD SOMBRIO TESORO",
+                "uri": "JuWg1SmpyRHqsNn+GuFIMdHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a+HQCNLZpH2nGqwFqsmXFBflppLjAyNl8Qra0WJ1so4F"
+        },
+        {
+          "icono": "https://i.ibb.co/H4dJyp4/AAAABc-STk3-X-a-ULK7m9-O2ib-Ox-Qxd2n-MQd-Al-NKIc-L1tz-FSbq-XH-09-IF9-XORxe-HTr-Ru-Dy-Botqhui-CRg-K8.jpg",
+                "name": "4.UNA SOMBRIA NOCHE DE BAILE ",
+                "uri": "xM93M0+cANo0e6iCxJzF9dHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a1BxxKu8HjjJ8C2dGScu4un6gNCoSjxLIRofMWB6j4qN"
+        },
+        {
+          "icono": "https://i.ibb.co/XLcyztH/AAAABTkygdl-Rrjk-Cg-Cu-Y9-Awri731-V4z-T2-E8-K8-F1-Wk-E4nf-Q7-ZQE9qw5-K5p-Kd-Bv-SZs-Um-Ckl-V9-BA22-Da.jpg",
+                "name": "5.COSECHARAS TU SOMBRIA SIEMBRA ",
+                "uri": "JuWg1SmpyRHqsNn+GuFIMdHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5azu8kIPcKphAyr3/sQ8CPR0J5G4H0My06RLnHAuyFNtm"
+        },
+        {
+          "icono": "https://i.ibb.co/k1DbvYy/AAAABftw-PVi5-K-gt-O5-KPpl-QFMGUl-IX-x-BA82-m75iu-Z-Fuu-ELSKz-Wn7-L2-PFrhl8-RFEHu-M-GQl-Ii-UYcs-XAeh.jpg",
+                "name": "6.SOMBRIAMENTE EN DEUDA  ",
+                "uri": "xM93M0+cANo0e6iCxJzF9dHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a9T5He8Xs4qJydjLA8rWubB9ur9BE1J3sMHUbS44NOhx"
+        },
+        {
+          "icono": "https://i.ibb.co/yWSSCV6/AAAABQODYcdhit-U30-HQh-DLH69j3-CB9-Q-krx-Jp-DRBr6j-Erex-SG2p-Fi7c-GKGzoh-Rac-O4q-Kv-YRG0fi6-Vxc-Zymm.jpg",
+                "name": "7.UN SOMBRIO DILEMA",
+                "uri": "xM93M0+cANo0e6iCxJzF9dHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5a8S+ntfWkC7Thbr2HFxTTWSdKmXia/7eeEHURrBKBen0"
+        },
+        {
+          "icono": "https://i.ibb.co/ymzgxT4/AAAABQ3m240-NGklf-P7i-Lk-Nos3-X-3zq9-Vc-J-P9-NMGwn-Cyb-Y7bldl-YOD8oh-UWxi1n-DKDU2-K8-Pu-Yzg-Ef-Ya-U8.jpg",
+                "name": "8.FUERZAS SOMBRIAS COMO UNA BANDADA DE CUERVOS",
+                "uri": "JuWg1SmpyRHqsNn+GuFIMdHGIgP4k9lwGfOwPYrrEYalnqDVzfNDd0GgcIGHgFqoqx2SkHLro9sQ7Rvvt+h5awM65lOubJ4zrf+Ca5UUXJxIyJLmCy5h+MQ2RSf8hnFF"
+        }   
+    ]
+    },
+    {
+      "name": "BETTY LA FEA (2DA TEMPORADA) 📺📽",
+      "samples": [
+    
+    
+    
+    
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "LA RECONCILIACION ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+Zexesak51//FghKDqvEzZEjc3uSE2C9HxdXmx4B3luxlg/jcb6Lre59RqN4LdCzsas1XQE2ndQy/ZfjxsHSESRRLrb/CpKm6mgIQ5qny29K+1/jM7W6rYw7cVIBowuJpwWWybeRkmpguUq2Sq5kNToGlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHwkxjcKwJeCYSPt2Nhh4qtNqYIhdBfb+bANeh7KhZP0UH/B12I+GjwiGnGCCyTD9KUMjHpRXBeEDpv7n9I34hrGFmzFzxMWEsfYM3qrCScP0/ia4R2A091wN9eZSiqZNLZodreTXo0r1kgftQ9o5c8MoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+         },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "BETTY AL PODER",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZuvtlGKYui8LkC+bBIAazYTHbkTxV6Sn46CIqRUZc9wY2ZokZ8qTKh0+HtFdndWI7Tbkz5Ur9gXAtqM49WYsRGn7Fx7ndhw3AGf6f8lKqLxBJJlpW5UQvnuLs6wpk7OjhGmatIRL98a5HnAsaz1lejmlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "BETTY PRESIDENTA",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZRTTg6UxvHVMW0xb7NXXWht3UkkfqH7S3NjBGNGXNvT7i/tmhUTyJtUwk0DPMAJK1SI0+ygG0lUiY3CcMht9jmG6BqkCOL79ZKl+BotVx5rxUtwEGnp/xJbKO7Ul7wfMe0U6Rk6usWRmcf1pUqGuzND8IqMT2XsQa2UmKsEt4g1D1rcdeCoMXvAJOhe2KBlT+I4Mujx8wjXLi8T3TdoyMOvu9QcO/pN7IkuAnb1SRzbxt4lvz8K10y44bZyV02TeMv+ihet0pJ78iqjB+WH6n+wU0ozhHXMxY0aDLTRfWzR0smpZBkQm1In2Msib7I0z7Gl9tr0Ygwg+8keTp0p12d+QPfpinYYghxN/CvoDRAxh/cw6XeVy7TZhREFRavpVv40/NPUVVStFexw7vmvXBo9PfoVYsi9QzYPplEg7fzHW8Aqt3AFznlwJD+RSJkeTXRbd19UfcW/bD3n1gbfRgV8XdfAI6Z1aWWB6f8J8oJK62U+8VyonFi/ZySPWC6Wp9"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "ARMANDO ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZuvtlGKYui8LkC+bBIAazYZuAlsGA4Nd8UHCFHq3+O3cPtoyP4ZoTSJ1MLU+w0xmB0Jc/aZapVVcJ0csTiEZ0/8VGk8Jo1H6IShrMfXsy7ys732aQ+E4+3rK2XaIRNFbmh91j/kkh/poSOVM4SC6+6mlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "TU CARCEL ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+Zu1mWPfxKUW74Hn70KVdKVUmp/HgZq9rNOJGllXv9I77+jDNp1HPbM2jPrj8f4eOqP1a/KkzmwTZcTHOn9qbe969fdGwoJ8MgHbEXqG0kaIvakl8PMulmCsTyhWGTNEmHGmatIRL98a5HnAsaz1lejmlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "SUEÑO DE UNA LARGA  ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+Zu1mWPfxKUW74Hn70KVdKVZ0gY3S4Ns/yfT2P/jEO1XWdBsPmd4urRpIZ/3Ka+Sk2sKtU7MeFdMboEVoapFRwJXZSDm8mfCU3bpQpqCA7rxaQVQPGeZPrd7/XpiOnrFdefhCN9tDtlRFf0sUs1XGoJGlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "CAJA DE LOS RECUERDOS  ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZeXiOi3Z0invJUbenVJrM6q7Uw0CswH8OlrOQDoj4u4sfSBkCn2KADgbKU5+kueJUWxaVexKGYm2zQ557EzsA+j+klThDshEA4/dhjyX+osdzarFopiAnDifCj3pw4udffhCN9tDtlRFf0sUs1XGoJGlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "LA NOCHE MENOS PENSADA  ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZXWeu4WtdJitZRLzxWQryRVemwl9Gx9j/756MpuJYcGfV49OL7WyXQcjaxhBMPxB8kC5DrZMJbvqM8gWwd1NzQngGeweZv1ccAOH/83nOWpjUE+da0y7OW4pUXBC1m8jPO0VEPgulqvGs7XgEYQuPXQnYwrN6jWaJolE9X9GTT20/gVPg7yZWPnAJhfR1tj6JtxexwQonEAy/xfuN3CY+d8Wyp9fXjF5Kl9ZbKVI+yXT0Rtua+rh6HGuCt4V0HIzi7d5UMItxT2iDKHOGIcqK96FC6JT5k2OKUIhbXn0dX6HvLb9O/983lA5ypah7c4EOxhSq1pPVYLORDTlMAPs6q+Nw0Y/zqB8Cn3o3+qyL34XoAZiHAeViZj3W+Ljsmo4eD4c/5AC1545S6y3TdvbyYunzo47lXsoZTqnG4mpzhQvSuMLw+a0GfvnRrc8VlX/NjGWD06XXcGxlXkD25ArT0gv8jwOMh1wCDBM9QGSUlcxdQCo0tQOGcX2AHm7NinrQ"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "BORRO CASSETE  ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+ZeXiOi3Z0invJUbenVJrM6nxf9/CPxVG27ZiyyzxhRLgpMNWLFY2KWHaYoC6Mys3Mc88R7SArIDZYmVZQGeS1TfK81SC8rmitQpGy4xJPS25e2rVB2oD1RkQuJJ7u7TgsWG9sShgORQOEtTYWXLxPjGlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        },
+        {
+          "icono": "https://media.glamour.mx/photos/666b26e7a349275685de671d/master/w_1600%2Cc_limit/betty-la-fea-la-historia-continua.jpg",
+                "name": "NO CULPES A LA PLAYA  ",
+                "uri": "isTfi/xe8EW733qxaoeiF+msIr6INiUIje9Wn1k/hl0tFObv5+HtjAD9We9fEJ7FNV+VZxMtSJspTUkITOzjBi5MZpCwBRaRpMuSq/fw5SOmG3Z3hcBI3sQpX5Xpw9+Zexesak51//FghKDqvEzZErYkgtNeVqOT5PEB0LGZIuil2sxBTiIr9hvaGHp1JXBOhiCMzH0RwqBjV7SJc+iHsjCcw4oP3UsyrKUSHMxltRj7kddvRq2r2Pu/7EvfPb3KKF5J6oBnRQZkFLEpyPQTHmlhoX+RxvP37JL0iXeK0OQzFYQm3Mi6wFxMQepyps4cO6vRsMmNeN7A+oiEaASNY8SnCBJYZT5VItXHRX8jkyjAPMfAFv+NLnM7Ksh+LoVHzpvz2/Do5FU8NpvzUNVSdl55RFHyo2+gEVVOSwV0Q3w9GPKoE5c10iyatYledNqfYbKHaSIEerTWdekq51fL9tA9hRSDZBciBxM6bK0QVUd0hPtxkDzTyYyDwzldEcNvOWk8/xIbqiJ+Gx1kxtY3JMoprqOdCmjt+TSAt2S7dTvPZN5ApM9fWZxjglp1DRWQXsotKPy6cpqLQSth9+IcdjffHw1AAiJU38pA2PA/Q2lYqeFqlf6oN8L8rS5h60J8"
+        }
+        
+        
+    ]
+    },
+    {
+      "name": "DR. MILAGRO 📺📽",
+      "samples": [
+    
+    
+    
+    
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-01 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUw4hxCV0zpF59dP/2f4egtphK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+         },
+         {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-02 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUxnd/xbVIGneMyBFos5OUfLhK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+         },
+         {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-03 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUx+20FYE6OtYZJaT2ylGuC/hK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+         },
+         {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-04 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUx6dp2FVXRFAleH9HulH37KhK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+         },
+         {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-05 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUx02Ef6iAppE55OhSa4VTjvhK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+         },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-06 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUzR0xk3/C1VHFfw4QBLFMvchK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-07 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUyUVLvg17Ss/53vpKbG3IhWhK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-08 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUzohRW1weHS8DVRgjaWMc4whK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-09 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUzBSNOPGIrAiDoFLmQO+wfMhK2IW/LhwoyBVHZtcSgffvSNcT/aera9PoBAMqhnwKU="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-10 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUxz1eO/CrZSNAszQNG737Khf6HiPVxL+m1OjuC9Qu7EUABObrrPXsY1q7gc3szzxW0="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-11 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKhwSOJpVdvOo49Xnkvz4bNyb3v8KMlqilUxtgvZQhyUzlQff1QgYNvd6UWJdQygTrf6HiPVxL+m1OjuC9Qu7EUABObrrPXsY1q7gc3szzxW0="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-12 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNEpSz1haY6He3uIqLfcgVpeVJkDgEKV3F/RikEhDHPUy5Sp6B+mqNNIKSVR1nPUYb2ZM54kx3L7QO1I0AnHILkidHMDQsM00knQZbWOFVyx3o="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-13 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwos5K5V4wjj4d6BcL8griWJ0="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-14 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwopispkOLndwXZoxlNmpmcjk="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-15 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwogxgy8MyroX9qAgmkbuFl3A="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-16 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwojf37LDVHe2f0aNLr4vroA0="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-17 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwonP25rv7PpAL3gG2zwKs1cw="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-18 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwoqvn9HRIVBahqHbyZ92ji0s="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-19 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwon15JR84wP58Pe9zdU4hhWA="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-20 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlworE71JUQ8/o1YshTuEPJKCQ="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-21 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwojU3EvIdC5cwg+gyEzOJ6GM="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-22 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlworo7OKVpiWYjq6XTxd3pmgA="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-23 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwolWzYVLOQOJ1SAjcphgEmPA="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-24 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwooRAyUrgg0TXuML+SdgAIS4="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-25 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwosqflAxGwH6VE/I1tNDXqb4="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-26 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwojWB29fxRAOivd3kBxZO2Z0="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-27 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwopf6bgkSxEs8lWNlA3AybH4="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-28 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwoqLoIv+LfGfUzHD5gCe2rQg="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-29 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwokuGU9pt92h9GnnDjT6PGDk="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-30 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt6AWSBjUW41GYjOhXhU3buXKs2jspaWZkkE7saTZ4yNErbsWS+dxfbjdpl9HrJlwosseip0wABGA+XDrvyRKMiQ="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-31 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEE+Zh0DDxMgrPd04RQjGnEWw=="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-32 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEE3RBBkZlnnnH8Pq14E60bew=="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-33 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEEwcx/YCqfdyRX4upNCIsuyQ=="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-34 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEEysqZ/42Rpvr3NpGZVNR3sw=="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-35 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEET/XpjeDvA523yjco+PUv9Q=="
+        },
+        {
+          "icono": "https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",
+                "name": "DOCTOR MILAGRO Temp I Cap-36 ",
+                "uri": "jCQ4PvweJUfGxoWgGXSPt2tVt+iMjj/M0n/5t6y7ZxWAEyFdgJGF07nMz8oc3lLKz8dLXqlSESeew+Dl+xsE0JZ3MpRw1gu2LptKImaT/D4s9brzlEjJI/+iGE/Y9lEEy4htFn6PrY6QJHoyVoUrlg=="
+        }
+        
+        
+    ]
+    }
+    
+    ]
