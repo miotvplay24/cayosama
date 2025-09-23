@@ -949,21 +949,21 @@
     "name": "BRASIL  🇧🇷",
     "samples": [
       {
-        "icono": "https://images.tigocloud.net/j1bxozgharz5/py5elNgkAmoQT2Lk4DnmL6z/4c0ad0d2aaf074d2ae2190b711fa87cb/canal_globo.png",
+        "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
         "name": "GLOBO TV HD",
         "user_agent": "Ranger/4.7.9-20904f43",
-        "uri": "q0c60sLiQkxUusJ8jqQaxKuz2bbIgGpiToIPkIQoV7rhpLZqZK+X4CnWrtU0yFr+RfCG1Gk/5ez1bI7EacK+Zax1GRKW8AriubHnM2ZXdqw="
+        "uri": "Es3DpMS49fsy9pSG0e9aWIlOWTI7zpgzPXtwdNVbHf/KPR0F8eqyW9RTceIUSrybgX6+ZLZ/DbZBsJS8LjEBybZT7xXKicWL9nJI9YLpan0="
       },
       {
-        "icono": "https://images.tigocloud.net/j1bxozgharz5/py5elNgkAmoQT2Lk4DnmL6z/4c0ad0d2aaf074d2ae2190b711fa87cb/canal_globo.png",
+        "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
         "name": "GLOBO TV",
         "uri": "oVVUyIoBl1/iqLi+5+Gl1iJizOpy+jPxLHlIMs1U0e6TlCnYPKX1oWB+69Ta8aZ4FP+9QU5+dZxneuC2KHdFtA=="
       },
       {
         "name": "GLOBO",
-        "uri": "tdwJhP+YTHP326gvP9cQeNvwUQJ9enDb2Xv5qNyHYdQO0JfgkJREbz4jFI0LUPZ0vjHKLTsB51SJN8C7riCPtVtKhdiNQDsg9dzKEU78x1E=",
+        "uri": "4UyDRec9PUVNph1Lg8RfelaBp8uIXegFzb6UBG1lC6oZLOStBuj0FvMI3hSo6ELuxgnxDZIVLjONSsu5T5XGpQ==",
         "user_agent": "Ranger/4.7.9-20904f43",
-        "icono": "https://images.tigocloud.net/j1bxozgharz5/py5elNgkAmoQT2Lk4DnmL6z/4c0ad0d2aaf074d2ae2190b711fa87cb/canal_globo.png"
+        "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png"
       },
       {
         "name": "NEW BRASIL",
@@ -976,8 +976,13 @@
       },
       {
         "name": "SBT",
-        "uri": "5PFqJKTYrkiL2RkWPaCaY6vm3ybyZD88TfCiGGCowmZFT2Ch+cc6Ti19kHFvFJUcbefQnCUBWwlcwnRSmAk3WEaB91kEFb3JfeLSvPB0fRo=",
-        "icono": "https://i.ibb.co/Pjbmb9J/sbt.png"
+        "uri": "bxZurMolN9WPlbPInITxG9tFf1CD689X3yc+nXohwimi5FDId5crqfzLBw/AFgp9QI5Zr8jcHvsdqYIfQzbB2mQRz+g7ziKiOY1NiamHwv4=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcL28fM+KHCj8yqefe4pgAQlXMcrrx1EOEVRVAjsKcPkUA/CCS3VCW6IfrKSJxlkTKO6l4Ku1vz/8DVhGLWY2jDZEbF1iKctnxN/nalFIJWVtUiVG9Xw2y8OtfJGwxzCdA==",
+        "icono": "https://i.postimg.cc/LsNzN35D/images-1.jpg"
       },
       {
         "name": "SBT OP2",
