@@ -4,6 +4,16 @@
     "samples": [
       {
         "icono": "https://i.postimg.cc/yWqZT1c5/trigo-sports.png",
+        "name": "TIGO EN VIVO",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://elverruca.tech",
+        "referer": "https://elverruca.tech/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLREAeY6SoX+YSjTUw8XJXU8YJb5jbiVT67V3eVGGIfTF0eIf26+2Lg0UY5wsRmmOKleh4D5LsAQc2WCflqn6f9bG0aP4JC8cnpj+lL1iFt0cGf1u4Lu6q3/i+/lGEZNSdQ==",
+        "uri": "Es3DpMS49fsy9pSG0e9aWIlOWTI7zpgzPXtwdNVbHf/KPR0F8eqyW9RTceIUSrybeO05A6ESrBkq4hj9e4DLs7ZT7xXKicWL9nJI9YLpan0="
+      },
+      {
+        "icono": "https://i.postimg.cc/yWqZT1c5/trigo-sports.png",
         "name": "EVENTO PARAGUAY 1 ",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
