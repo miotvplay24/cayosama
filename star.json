@@ -2527,16 +2527,6 @@
     "name": "PACK HBO & PACK UNIVERSAL 🎬",
     "samples": [
       {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOHD/EXPORTACION_WEB/SS/HBOHD_t-290x163.png",
-        "name": "HBO",
-        "uri": "MYE+1OMhRrRwFGewwSVyp+8v4+rqhQcX0gpGKCfSFD3kVD73Yf7PhM/USrpKT3QfTVonZJC/qjCRB3qdcjJHDEpkF0RoFh+zqr8/w/9MNCE=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2nGh6es5iwTsMnTrInPz8Wn5DPQxNhspBYtO4DMRsLi7RN/w5wMhKPPCGEE0GHhHlTuepLyt4dvJUAG+a9e39y4XTa3a0wm8bA0WoMxQSkfrJozWwN4MtnCfKGItD4DC+g=="
-      },
-      {
         "icono": "https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png",
         "name": "HBO HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5GtboaJbqhl151Z+s4L/PTCpdCFIxwrw/R8RxIFU/cXtTl+KqLooq7/VXr9TXEgmX+A==",
@@ -2545,15 +2535,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2nGh6es5iwTsMnTrInPz8Wn5DPQxNhspBYtO4DMRsLi7RN/w5wMhKPPCGEE0GHhHlTuepLyt4dvJUAG+a9e39y4XTa3a0wm8bA0WoMxQSkfrJozWwN4MtnCfKGItD4DC+g=="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBO2HD/EXPORTACION_WEB/SS/HBO2HD_t-290x163.png",
-        "name": "HBO 2",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21ftTQkynjJOwb8iftuAJRKQqErwj++ZjwPiIq5lOdfo2EpkF0RoFh+zqr8/w/9MNCE=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2rwe73N7ZeTBZXO3Sz+W050+zZ2xACnlSEyTiTwk+AGkl5S5oIejS3C06i9Hft/+1eYiEJ6BzI2gmOiXco2iom0SUveeEXX4WSmgpMlJXu6AxO20v0APTS7qQfui8wH7Gw=="
       },
       {
         "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/93371734072127.png",
@@ -2566,16 +2547,6 @@
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2rwe73N7ZeTBZXO3Sz+W050+zZ2xACnlSEyTiTwk+AGkl5S5oIejS3C06i9Hft/+1eYiEJ6BzI2gmOiXco2iom0SUveeEXX4WSmgpMlJXu6AxO20v0APTS7qQfui8wH7Gw=="
       },
       {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png",
-        "name": "HBO PLUS",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21fQ0BtTtXwghx8Dp+NAkZdrwSznD30cgV9wZ8GYiREVEFx2M4B3xC9MkXzky8Lw4X8=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2powpPBXQgLPsHZv9uf7IDxQRjFWmg1KePNUumZxGMLhf+ZD1ah718sPOCSdZ0mPr/NkV+3BvGCSAWwzRZvOdUtDadOIMSfM1y1lCbNKaV7sUnCIGA09omSzhkwiIL1V3EJF3BPIR/dtInLoUFoUxho="
-      },
-      {
         "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
         "name": "HBO PLUS HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5Gvwn/NlxF2Y/DjbSq3GBNoCqGw4NHBn6mbAFxAAQucTijMDUnDYq/SecAlJgGM11rwJ4eIbc9ZH8924TLSlTRwM=",
@@ -2584,16 +2555,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2powpPBXQgLPsHZv9uf7IDxQRjFWmg1KePNUumZxGMLhf+ZD1ah718sPOCSdZ0mPr/NkV+3BvGCSAWwzRZvOdUtDadOIMSfM1y1lCbNKaV7sUnCIGA09omSzhkwiIL1V3EJF3BPIR/dtInLoUFoUxho="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOXTREMEHD/EXPORTACION_WEB/SS/HBOXTREMEHD_t-290x163.png",
-        "name": "HBO XTREME",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21c+UZSirMev/ZhvKGzzrkXd+W/FFkyt2gqyFRsuLqlYIKsSTWuUjAhw1xkjbZwtLL22U+8VyonFi/ZySPWC6Wp9",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2lDnpzaGd+r1o+ZBnWtNTDylk4yqB8BarFsFjNHtNe9H5fG7MLKIju3vMwJkoCth9i1jo0Ey1ruN6e8UcCbM5mFQLMqXq6E/0rRz+LLF9IinozZAF42XwYcX2i4+6X5qIQjhvDiw7fMIySptc6hVpKI="
       },
       {
         "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png",
@@ -2607,16 +2568,6 @@
       },
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPOPHD/EXPORTACION_WEB/SS/HBOPOPHD_t-290x163.png",
-        "name": "HBO POP",
-        "uri": "MYE+1OMhRrRwFGewwSVypxGkOMv5ZSjaw9cn1M39oskRxXIbp0Pbl6EBGl39GZIGN/OWPCFZ5qUeSxh0OpWOL2N42CNglN5aJpRiui/SPJg=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2hRcbCe7mbKliVioZq8zs7+WCBZw3v/Eusw4TCynqypFOA3295gMOwqejWJwYoyz0bvMTmQUL8QgoI5wWkiNsguaBN48c4F1FD5Yjw6TMJI0LGTLionum8r8AB8Qhv1mrLZT7xXKicWL9nJI9YLpan0="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPOPHD/EXPORTACION_WEB/SS/HBOPOPHD_t-290x163.png",
         "name": "HBO POP HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5GpxmigNmzdQglmboFK/DAIEI3opvK7YHRbMqILdtYRFqnAWbaBl5iJBEJqJwxjH8gg==",
         "drm_scheme": "clearkey",
@@ -2624,16 +2575,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2hRcbCe7mbKliVioZq8zs7+WCBZw3v/Eusw4TCynqypFOA3295gMOwqejWJwYoyz0bvMTmQUL8QgoI5wWkiNsguaBN48c4F1FD5Yjw6TMJI0LGTLionum8r8AB8Qhv1mrLZT7xXKicWL9nJI9YLpan0="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOMUNDIHD/EXPORTACION_WEB/SS/HBOMUNDIHD_t-290x163.png",
-        "name": "HBO MUNDI",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21c/3M0IugaOX/yB4Bqwi6guvTN9OeZ+L0s7AzjIWP8mNDIBNxHxGyEPcuis8xZkvuI=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2o7vPrUuSh7Pp2MyHdzuYQ0C0AACC6J7RI1+r4JTCraRljOgWnEDGbJmwL0LMmYRC8WQro5P+sNoHz+WnnqsGKDnnZz5gtIr0e7mVqOSNbQCQyZvi1W/dPprY6zYI4k9UiM7HNcOeMev2Hw6by7Vnus="
       },
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOMUNDIHD/EXPORTACION_WEB/SS/HBOMUNDIHD_t-290x163.png",
@@ -2647,16 +2588,6 @@
       },
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOFAMILYHD/EXPORTACION_WEB/SS/HBOFAMILYHD_t-290x163.png",
-        "name": "HBO FAMILY",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21ekX3fPF1DjyLzYCd0FxEJjyn49fVwjl73/+L8bW5Zximv5d+P4+PRB5tIV23Zr2zY=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jAhQdVKeJjTZuYlYVaXtrZ5spRzKWc8c6QHST4KNIyM+Vlf2pmWvzmbKkEoO1rB8MkZ3UJ1BIL9HToRyoPyx12tzbtUlmudgDGvmKn2C8vEI7+hz+MtL7O7MNFMTkFZzwjhvDiw7fMIySptc6hVpKI="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOFAMILYHD/EXPORTACION_WEB/SS/HBOFAMILYHD_t-290x163.png",
         "name": "HBO FAMILY HD ",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5GtqK8ymckdh+bxcpwn4u5SMTOtBdqJqieVVmvwojAMxlzu27ApU73Z/RHflZUijUFS2H4AS6CODaIU2HeOHimbI=",
         "drm_scheme": "clearkey",
@@ -2667,16 +2598,6 @@
       },
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOSIGNATUREHD/EXPORTACION_WEB/SS/HBOSIGNATUREHD_t-290x163.png",
-        "name": "HBO SIGNATURE",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21d8G0fp2eEhhMlT/OcBseTBqdJffPf6dT51stLN1hRRFeFe6hGiQCGYc2Gs3K2/ERxKZBdEaBYfs6q/P8P/TDQh",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2uRtaB0tD/Qv8LEAZ6yqwOO1ync45bB04rmGRC6k2CJj9JBkBukok8vIDv+az0ubF84BvS/cafOjMlvQjVtlhv4HKFp8m4KdxCSkqV1HHkky36INc0eqtBzz09No+9Sz7XH5Yr32Oo8pgWR+uI3r/0Q="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOSIGNATUREHD/EXPORTACION_WEB/SS/HBOSIGNATUREHD_t-290x163.png",
         "name": "HBO SIGNATURE HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5GuIRUppiasaPWEgpvAuO1H00TFGgzZYpn8mwdPuxPNhjCxwF/xhmqiiiDamJBRcQCouOEI27LJhoFLJoA/C57fk=",
         "drm_scheme": "clearkey",
@@ -2684,16 +2605,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2uRtaB0tD/Qv8LEAZ6yqwOO1ync45bB04rmGRC6k2CJj9JBkBukok8vIDv+az0ubF84BvS/cafOjMlvQjVtlhv4HKFp8m4KdxCSkqV1HHkky36INc0eqtBzz09No+9Sz7XH5Yr32Oo8pgWR+uI3r/0Q="
-      },
-      {
-        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21eP4FGhpBRMDK9l9GcWMddrvgMXNMB/hHeouIIUB5xCw+va87A6rQ+f8o1alPq9C5bpLimVVDhtx5WzVekT0HSU",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2nVcIKVSRzv4pXVKhWhNP4A7yvhbJ/kR5JHBilul2Xlv5vXPOSwMjDbjbPvV4XSD0MAofkhVgcmSq4GiX0ADh7WsJlejnTrL/+fZrPmHC4skY5JumHsHb0HTdgbxhNn1CUJF3BPIR/dtInLoUFoUxho="
       },
       {
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png",
@@ -2707,16 +2618,6 @@
       },
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCRIMEESTEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEESTEHD_t-290x163.png",
-        "name": "UNIVERSAL CRIME",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21ehkNVJjzrV1c1Wvwf/5UT8yTuSbjM8y4XYO8M2DYNO7/ASXuLEELynp6FWS887UbV3ZZS3m/zhDSIYluaDW6ZB",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2gXRgtW/b/Va0Xs93CO5FpSMpOlrmcdqksOVkdxQRZI0KXT447R+VnXfFXOdm8lcv122gmCrrkLc9UcxVhAKbKkwSr8dZbHkRIlTh5AB1UcOy505Vo7kq+31tWvcnPTzTbZT7xXKicWL9nJI9YLpan0="
-      },
-      {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCRIMEESTEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEESTEHD_t-290x163.png",
         "name": "UNIVERSAL CRIME HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5Glnrp8sH/G5AZTxTXVrH1sMoWNv6jbor5pvNE0gEay0ei7z9BWF3hYDiaMwcul+THwswz63bxoH6g8zvexK1WNs=",
         "drm_scheme": "clearkey",
@@ -2724,16 +2625,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2gXRgtW/b/Va0Xs93CO5FpSMpOlrmcdqksOVkdxQRZI0KXT447R+VnXfFXOdm8lcv122gmCrrkLc9UcxVhAKbKkwSr8dZbHkRIlTh5AB1UcOy505Vo7kq+31tWvcnPTzTbZT7xXKicWL9nJI9YLpan0="
-      },
-      {
-        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png",
-        "name": "UNIVERSAL COMEDY",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21fz1xMSBWHGDQfX0gtSYUauJ4tnHszTZV0CGgPPuhNS5XXV2NsvQdEMZkmbI4nsYANl3C2BBCCH2lnDknePzdnl",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2tL5vkvoqbWQ3F6eKIgumsFOx8ggQvUjDzQahNaz8g8fGn7TqH6vu8PQtlxrBjbMTDiHvLbLOeSRUIdK0IqYS88hsIg2PzDrvhKj7HpPeUTzvqnp0YN1cbUYSFYUN2eK3EJF3BPIR/dtInLoUFoUxho="
       },
       {
         "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png",
@@ -2747,16 +2638,6 @@
       },
       {
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png",
-        "name": "UNIVERSAL REALITY",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21fULP7v4CBgYZ2U3DipQ31T04ZzR44LNbI9MrLExiSJYDxLj4xZlG7vkRRFadjeSoOCZjBUTV+P30HwRVuWHSQx",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2nxw5yavOFK9Vx8YqEH2sjB08Uo/ULsSmMtN3Ie4cfDKIKGG6UPsMeypUe8AGaJck/jZxIDi3FoNjWGPyry9KjjzEsKKlvpiQYFhdU1lslt4LUnbhqC1dTCg3BpDaSeN6iM7HNcOeMev2Hw6by7Vnus="
-      },
-      {
-        "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png",
         "name": "UNIVERSAL REALITY HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgnPRxLzZq/AfUrL4TOqJWdPby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ/zvZP6xUhY2sfrBA22LXiBmP8sS9pzQ9KC0EIqrwvnKBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIBulAtWWS/pEXOlqaYC5nsX7guXYAYfuYYrzVnlxTZA+SxAtu2WxH5Qr4unbg+bL8f1SQl8NiHN2XTcWxfeDqFfGjt9VwYPOot0hniL+eItLCwSNLv/4ihR1ED6jd+wZ/fy+7xKoFTgNZDAEaG0BwAs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGj8QslDyYWlK7s4gl8NtwR/rajH36P5itaoGIJQKWvx0heTMhyqemmBL8sc7bqxgeZEhs9MNzfXGlVCaUv0X4CUo0ko+y88LYD0optUyuIxXcXfVR/FNb/7B82O+KiWKMvzOuYh6XR5iS9A/kvj38+2rWEWWXyUamQ2HmYAuVkCzp89d9Gqw1uLQkrM5ETCjUOt1veu2EKT8kZLLT8XrPxIKCUmOgithLaRObQP35P5GsZ47Vtf01gXlDZZbThho1TJwngcdhvXaUwtS/H7C7vPpJRdN6dhWqx27hxR7hnrKZ2ctTlnwJ/jp7TvcX10hhMscVbFiY9uO5+pFiwOYb6R",
         "drm_scheme": "clearkey",
@@ -2764,16 +2645,6 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2nxw5yavOFK9Vx8YqEH2sjB08Uo/ULsSmMtN3Ie4cfDKIKGG6UPsMeypUe8AGaJck/jZxIDi3FoNjWGPyry9KjjzEsKKlvpiQYFhdU1lslt4LUnbhqC1dTCg3BpDaSeN6iM7HNcOeMev2Hw6by7Vnus="
-      },
-      {
-        "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVERSALPREMIEREESTEHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREESTEHD_t-290x163.png",
-        "name": "UNIVERSAL PREMIERE",
-        "uri": "MYE+1OMhRrRwFGewwSVypw1jZ/cGPnb69/jpA8Ll21dl8TtQweWl7ATWakTpFp6FPqiJGxF6PNSnzuxTg6bNpD3T/9KhUCyGJQhFhAiIeKOtO+ACmSP2jOoq8zJjHbMc",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.py/",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2h6B7jiDNSxNVlXxFzg0LQp6qkXvID+5L3jh9PrE7OsZTUUWtcl3s7HFEl/LSDCJ7cpX9o2t4cyUPkqlF+PJa7GhqTey1W+XTzQQFkruQBCcHfi7wyy/JN0LVn6nXOaIfgjhvDiw7fMIySptc6hVpKI="
       },
       {
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
@@ -2784,6 +2655,91 @@
         "origin": "https://web.app.flow.com.ar",
         "referer": "https://web.app.flow.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2h6B7jiDNSxNVlXxFzg0LQp6qkXvID+5L3jh9PrE7OsZTUUWtcl3s7HFEl/LSDCJ7cpX9o2t4cyUPkqlF+PJa7GhqTey1W+XTzQQFkruQBCcHfi7wyy/JN0LVn6nXOaIfgjhvDiw7fMIySptc6hVpKI="
+      }
+    ]
+  },
+  {
+    "name": "PACK HBO OP2 🎬",
+    "samples": [
+      {
+        "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+        "name": "HBO",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VJA0UhPg7oL+SMEBykeESD5wpjLqEPRHgkNrXCBcbfKJg==",
+        "drm_scheme": "clearkey",
+        "user_agent": "Chrome/61.0.3163.100",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLWU/O6JzARIPjgofHCtxczl6aDCfoiIejft+xmG7u3LSCdJh/zg2FVJkYRo4XHTGMJJO26Ppfk40lLZKudBaqvfm6ie/icFWXZN71bjDeaL/yPk0ISjGZnTkD0Z+Jkq2uQ=="
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/93371734072127.png",
+        "name": "HBO 2",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VJqZ7419OfBSNzRgHcZTLtMdcrCe9BzpscXxXE3DHCUAQ==",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLXxYs3prZIhGabQdIOf933HyIin37dnYega6ID26cU5731bbnAmhI1APOi9GBSD4u6UJXWBysj7Kdh0d1Em6zG3Zxt7nWZaGDd6NqJikj34BV9qoAciQxrbGeEXKMNFfYg=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png",
+        "name": "HBO PLUS",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VLQQJ3Tc3S4rWb3Hk8wnqDkU2Ks7ZAxTwJROquUEKtm6QJ4eIbc9ZH8924TLSlTRwM=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLT1uc/LMLtVBZPtid+K1ElMx9wZo5G2LGhaO9h6/VqEAiqDsOxF+/X/8OlLOS22CF28qTda68WI8+pVNBmZ3N79S5iTSUtPnJVeZ+5OKRv3GPDHtVXO3Qn71kKYl1FPw/g=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOXTREMEHD/EXPORTACION_WEB/SS/HBOXTREMEHD_t-290x163.png",
+        "name": "HBO XTREME",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VJknqTlEb2hgaQ3dOaCIHMtpFFkikfhl3A2cqib4xb5uixxVsWJj247n6kWLA5hvpE=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRMtqBT3G/SfXXkskU/s2r0RrC7LhV6wk3drkYsDtsLIXur+syWcntyAd8OJv0cYQ5He0oHP6hmmDvR+5lJij+lHyLzS0AUIJQy+XR30gxbdv52w5uAo+kbvjvkUVXmIYw=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOPOPHD/EXPORTACION_WEB/SS/HBOPOPHD_t-290x163.png",
+        "name": "HBO POP",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VLQQJ3Tc3S4rWb3Hk8wnqDkvTcZddwfvIEbuX0KuV6C2rZT7xXKicWL9nJI9YLpan0=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLaugs4WTVyAFT1IHp7O+nnLIIXM5cqZrFyoreRHwORVbyCA43A/0E22Ken2KxrWLszRX98uUCqm4I/L3tL8G7b9hzKFTabm+nSWpObI+8/BZCD/chEmvDEYZdJq9d5f0TA=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOMUNDIHD/EXPORTACION_WEB/SS/HBOMUNDIHD_t-290x163.png",
+        "name": "HBO MUNDI",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VIayuE5dmGFgn5g+NbaWTe8QnBTcDl+K0UFpCbTFbUFo/hjcGNt+iqZLlWl5EKGmC8=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLdI0allA/z1pB8/+dtDDuZSk9JniURYAKlUZTkg2/6tKhd/PQvblLxMXLUWSs10S7Dyf7flMpe+z4gde0hhOv0+d9Qff96wG5eOBLVqP/8qwYiKyWqcR8R/L0B37MJ5lLw=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOFAMILYHD/EXPORTACION_WEB/SS/HBOFAMILYHD_t-290x163.png",
+        "name": "HBO FAMILY",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VI+jzwWvCcjOF3hSZX0q+yAUKO8l4l9CWZxmLu1NVJJyyxxVsWJj247n6kWLA5hvpE=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcAZflhRLPLWAlRortylKOFYE7Ijmt8keeoedXWN8jkbpfbHuyiWh43NSKsn8jxpJ7ja9HrJJsy2nnWmuPyoCsDCxLq5BK3JzxIpqGCNa4Cj9HMYXKzuZW+wBVoAuYZXng=="
+      },
+      {
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/HBOSIGNATUREHD/EXPORTACION_WEB/SS/HBOSIGNATUREHD_t-290x163.png",
+        "name": "HBO SIGNATURE",
+        "uri": "7EZ/6L3zMzA2GxSy8MI3+jMo1vwRuN2h61jh2Klw1VK5XuhN6lyEdWgUZMMtCB57HUq1eNjp1Sb50jE+uityNoolY5qfxljFHTMf7qZbidE=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVyxhwV4kp6fAToVEkSF+OLhKz+/kwyr9+pOViUBrMJ4U8nX6pVYN1EXTxb0VxATIMtnCBw/8CHbVyPUYPHu90eRg6LO/8x43vATxzo+cKWmeHggUfRNgdwinXdfNijvtA=="
       }
     ]
   },
