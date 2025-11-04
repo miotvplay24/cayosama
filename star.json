@@ -31,7 +31,12 @@
         "referer": "https://www.tigosports.com.py/",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLXisD1ss6NQQgrz2SS7t20xSHu7JLgVlrFX1iNkNZMwjG71YudvQNe++IJNEiiSixOUgi2JWJ04c4LZA8Uo5RGtdie2t5PS1Xq3rgbHn+v7UEtgYzWKkmfhjhl/TgMH9Xg==",
         "uri": "4Ac/TQQNYjWfarkwJreo6cv8bCueRUbY6ZvQZYQPbMVo2ApCpwz6H2C+aNUToAv5cK/24dxCvJRDTnMqTMUJEDCneY3B3SaCl5iuDLK6lBLRf3IQfGGhon+FNBrVzqeB8/p5fU+lH1RyxkS6nToCVhoI7JB1eL3xiKbpfgD4Y1o/HYoYiKnjTYJ8Cz1plq57AsEEliBQEkHaM/13nl5D7LOVBo8cecF8U3EJzYvn4lTg7BqADlOhJ4hIsvU6ZPyZk80Q3izV4vrXoU1l3QL/gA=="
-      },
+      }
+    ]
+  },
+  {
+    "name": "EVENTOS SKY ⚽️",
+    "samples": [
       {
         "icono": "https://i.postimg.cc/TwC32GLL/La-liga-eventos.jpg",
         "name": "EVENTO LA LIGA",
@@ -41,6 +46,96 @@
         "referer": "https://elverruca.tech/",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLREAeY6SoX+YSjTUw8XJXU8YJb5jbiVT67V3eVGGIfTF0eIf26+2Lg0UY5wsRmmOKleh4D5LsAQc2WCflqn6f9bG0aP4JC8cnpj+lL1iFt0cGf1u4Lu6q3/i+/lGEZNSdQ==",
         "uri": "u1ivCvOABcc51zrcm3W3BAnf7uAf4DieV/NAAdNggAa3rJCDRcLzCo94atnZxeWdR/K4XNiJ1l5lsd56G1OC+w=="
+      },
+      {
+        "name": "SKY SPORTS",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQw5hobSfJh+BcdK7LcUNMe754/g4mgDZJ8kopDrOqIxcKnwJ0uo5+VijEz4kVC7yDJBQ4PXgUQ0lSZj6C5QIKKPykq4GhDdds2if0lXa0BR8Umfc+yPG61V/CZRVcW5/g==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0XdFDeucgWYNJ+7oW6uOd2uHt8ktTblXvprqbIEWke6+YUpkF0RoFh+zqr8/w/9MNCE=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "SKY SPORTS 2",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLabYlq0g7BmL6PJ10Is9vYKzkOwBfG3OD+HxHmZAz73Q4L4CI667YVQOLV2MzMgMQJ+G3JQsdpeWtyyuT/jLUcEA8iSbe7D1vG1uNbNzF8aKIvhXDef6jp0nTL4wCOmHsQ==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0XdFDeucgWYNJ+7oW6uOd2uHt8ktTblXvprqbIEWke6+YUpkF0RoFh+zqr8/w/9MNCE=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS ",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQ6TooIHxq85gl6TJdv5F6vJ6D4fGb0oCKXbVzR6imYIMHea5xQGTxpRX3Hqi4EdQMoKDCxUVnU1BnMNdE5oKk3GTFhqt29oP8CVoauJDy7CXu+mMK/+pQKhqA67+sCHFw==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0Xf7DlEzhwuvNWYKnn9UwBKttTaM2ygL6Hfezx/t7Pq1HQWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 2",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLSSpK/3t5X0JEdHjcEhcI9Z43v0mhfl/mTrijLS48ejn9MBvTeA9+wlfRDZ8EI6LwRTzbX98P+MsZJftbmZp8p/qiCWZUu8gtnJP2wVjR/qKf5PErZ5FFQiCMICReDdViA==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0XeNA/CzGNc+4MHEaRJ6s+KMOpFZUYuxhFbQqHWb8kyLUwWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 3",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLYJbvDu+Nd3YXehG3xAED7pG/u/UJPtQCZz/e8oHV6TfmkH4vqVsmkNJsK3qYNxEuJ9/J2RSDuoarpCbSWbRX04vu4VPJqlYN1jWND0mARFbZeAVM8HeLw8VKtMbCKVnAw==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0Xf7DlEzhwuvNWYKnn9UwBKtsseVtSpaqNWjX/509gkgLgWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 4",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVzRTEDV1Yf3y+6Ok636Sw7puO9ul4VL3eLKhMS0tWtZs/JfO47igYHhj6iegrMiCUs7/BxbXzSMFe2A+dVH5lUBFrVK1jVTL4+ABn3kOUgCcEdoZv6ucTV6jxbthRjaDA==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0Xf7DlEzhwuvNWYKnn9UwBKtksZ1d4Ue2yQo28mGAFTDywWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 5",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbkpHeHc+G4J0PBNxBSNA+PrZa1XU5JOxilRtYIHRFr8vKWDecoNczFV/mTHhVnaED17spRly2P2ur8ThK8c27P8+P21G9+gC7Gmv7dn4SbvSXkcb92IY/8mVHhaiWag4w==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0Xea9JOcdOdcgvCbqSJqLk/aEitIktc7fRNdB3zefB9mCAWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 6",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbkpHeHc+G4J0PBNxBSNA+PrZa1XU5JOxilRtYIHRFr8vKWDecoNczFV/mTHhVnaED17spRly2P2ur8ThK8c27P8+P21G9+gC7Gmv7dn4SbvSXkcb92IY/8mVHhaiWag4w==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0Xf7DlEzhwuvNWYKnn9UwBKtO8yiB06zlEGE8eQ7Y3LoHgWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 7",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbkpHeHc+G4J0PBNxBSNA+PrZa1XU5JOxilRtYIHRFr8vKWDecoNczFV/mTHhVnaED17spRly2P2ur8ThK8c27P8+P21G9+gC7Gmv7dn4SbvSXkcb92IY/8mVHhaiWag4w==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0XeNA/CzGNc+4MHEaRJ6s+KMbvdTx7aP1qg+b3vi4QCOxwWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
+      },
+      {
+        "name": "EVENTO SKY SPORTS 8",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://web.app.flow.com.ar",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbkpHeHc+G4J0PBNxBSNA+PrZa1XU5JOxilRtYIHRFr8vKWDecoNczFV/mTHhVnaED17spRly2P2ur8ThK8c27P8+P21G9+gC7Gmv7dn4SbvSXkcb92IY/8mVHhaiWag4w==",
+        "uri": "/EJz61dtq5s6zYJznaJWCiNvjy/hCLmgepOHSQTT0XdFDeucgWYNJ+7oW6uOd2uHvJaWfEwWkfIg/uMdQq631wWBUKb2APaxqXH459FJLWs=",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg"
       }
     ]
   },
