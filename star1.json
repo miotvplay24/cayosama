@@ -7,8 +7,13 @@
     
 
             {
+                  "icono": "https://i.postimg.cc/q7rzkx3C/TRON-ARES.jpg",
+                        "name": "TRON:ARES",
+                        "uri": "JbpGo41aVOf0IPh/YwA45W0MLpV2Y5npOmhv+lzMsX2N3cC2H91zLDw0r6l/tqO1N6XHCKEq5Rd247W6wbj4muB3ULhs1eT2msZc2EXlRvc="
+           },
+            {
                   "icono": "https://i.postimg.cc/fRFGBQtD/Tiburon-blanco.jpg",
-                        "name": "TIBURON BLANCO:LA BESTIA DEL MAR",
+                        "name": "TIBURON BLANCO",
                         "uri": "JbpGo41aVOf0IPh/YwA45dOP6ny+nZdfGdNXfH7+6wkxwXIU1AwvThfSlvy1t1RuTJV4p1yTRvfmtW8svf/n4uB3ULhs1eT2msZc2EXlRvc="
            },
             {
