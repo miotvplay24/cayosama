@@ -781,10 +781,12 @@
     "name": "BRASIL  🇧🇷",
     "samples": [
       {
-        "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
-        "name": "GLOBO TV HD",
-        "user_agent": "Ranger/4.7.9-20904f43",
-        "uri": "Es3DpMS49fsy9pSG0e9aWIlOWTI7zpgzPXtwdNVbHf/KPR0F8eqyW9RTceIUSrybgX6+ZLZ/DbZBsJS8LjEBybZT7xXKicWL9nJI9YLpan0="
+        "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
+        "name": "GLOBO AMAZONICA",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://rdcplayer.onlin",
+        "referer": "https://rdcplayer.online/",
+        "uri": "ohLV9hfnX5qwZg3azI0W9La1we1+OwekrZSQM4+KY6+uaFs35rKBCw+fzut9p8G+"
       },
       {
         "icono": "https://e7.pngegg.com/pngimages/82/749/png-clipart-brazil-rede-globo-logo-globo-com-globo-tv-international-others-miscellaneous-logo.png",
@@ -799,7 +801,7 @@
       },
       {
         "name": "NEW BRASIL",
-        "uri": "1pmw/xagdKRR56C82Ox5cvvWyTtR4uTXlUU5u9iVCA4ift4y1VMfN9sjndCd+uFZVUICvlaPjaikgUKwyGP6GHVLpRtngJ6wIHdMqHzucl7oIrAbqqCjzx7cr59yFaQ5",
+        "uri": "WJV8bqurAK7+F3RgM8JvgmrrymlszGeB6TjLobsiynLby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZLnNH+B7nBJ/dGAnYv1uztS2kUpJ3oStNifMWfx/7O6c7a+0JeLmGn4ImsrcHDT5ABDQh//F/C+XXfzsVH/GYBnpwk5EIUNGRbAkcCIrGS0TlH2tM5+e0GUVo17Jo41/Ee7avmGl2cOBdWsvLzKZ6g7Zr7RHAs58SD9141cTXzv8qHLGda0WqYn8TsIgj/fVrlVrbkmGbJMt/KymK95Px3dfxj96bsprmoXmRgEEgLVUquLaqqdJ45ku1U1imFVAZs4VaWeA/j3ZS6kP6WHeJw1H5ktSrheuTCPrR+X6+/CnJhVuMAUcD7Nn1M8kAcIu8z9xJE0Y3JCLJpt4Yrm9+M5gT0yvVRal6pmdmgX1IucYzP2VgB2Es2LLfTQ0bxB2dEXUjkewsbth/kujjcid611+ddurxhGBZMIddcHCCQP25nbPsDAUmJHyvb044gv7Wlu4vrbF4Ag7ikSnCvEXObbb4APCgHuETaSE/1IxvrbWYMoWj1tg2YRtWPG3NbrWrn3jKCfttzYSU/HlOZkmDZN17zvyn0X59LjWbU1WasQY4ItXjF/sOLknDwMT6XJFNJQHGZ2QT0rGufncVUvxtmLYTIw7POB1r2IE8wofQN6Kq2oJohhuZT0ktiMqknz1xUBY60z3tVtM6gDvF0gdI0zE9eAEOYYv3Z76Uv3v2RyzEXgiN20cafeT2G9HR/Zt2eylchON93CTNTGbPEh/5+Tzbdcrb8rKQe4C1lgNhz37E9q4hPYU3nvi6aVN97FxG4dqYW32uD+IiiRbb0Kd8+",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://web.app.flow.com.ar",
@@ -829,39 +831,188 @@
       {
         "icono": "https://i.ibb.co/Z6zvMPP/png-transparent-tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-band-logo-band-brand.png",
         "name": "BAND HD",
-        "uri": "pcaNv3reOamyXHfapeiFjHGGTpqCPZrdNRFRXO82uxRQHkAs8Gxku5aROuQo+qsWM+eVGYVkq/GVrQGZJKFB73J4ygrn9xghrORkL9B5zGM="
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "bxZurMolN9WPlbPInITxGykd+sfGfchVDpfC5jZ2D95zNBsUqOysc18hXf857tNfdQrIqXDQVvaRmnoATytF9TU32sWHm4f8/p2T2hIrjMU="
       },
       {
-        "name": "BAND NEWS",
-        "uri": "TkDYCzrsv/V6cenHDLXZAO6Iy9bseMwbQAXrTzndRhzpd4El3s+Ln2JxKBifL3LgFP+9QU5+dZxneuC2KHdFtA==",
-        "icono": "https://i.ibb.co/x1DFF05/BandNews.png"
+        "name": "TOP TV",
+        "uri": "9SJABd2oiDMhhuWZBqjbTjVbx/6+wg4tsvoxt+PBewtn/7Mfejqmr2YokBdKOSectlPvFcqJxYv2ckj1gulqfQ==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "icono": "https://i.postimg.cc/tgCLHFv1/download-69.jpg"
       },
       {
-        "name": "HISTORY ",
-        "uri": "TkDYCzrsv/V6cenHDLXZAKXD+6YbeuMvtgB/wZKG52MuLOH45vLoTXtAfHqrL98H",
-        "icono": "https://i.postimg.cc/hjx19JJb/history.png"
+        "name": "TV CLUB WEB ",
+        "uri": "ZaFSLcWFe93GCDlz3OHbMjlj5WKjvyl1dSyDj5Z3Hto4W1VfSPKjRrqAefcsCbOhFwOPqj2j+bKRTaLxR3TivA==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "icono": "https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg"
       },
       {
-        "name": "PREMIERE",
-        "uri": "BbBAPbld/EfEkup1m+zYGYtaBqglO80PpOYXilxFuvbXPCkHoyJJlXJMcQ+UeZQl0UQF4mBWLM3c4RbyOEI58We1rwJkeQdJJv/57fd9FudOvZH0By+jJvNhOeNLBi19CLVpO4XNAqw5xYe/k1tRFDm0tLM69pcHr9tX+v4wm4w=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbeIptqd0L4jfsiNNSYvJV53qxbTs6ZxkqoyuTn3c2kyDE+0l0Qw9G/Lw1OSp/nMrksUbSP0YWvk3edNwv/fL6igtDIEUKeXakLaZ6jblqBNX/UyMIl6DHA014h+fDnuSg==",
-        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+        "name": "AWTV",
+        "uri": "ZJxcNGCuVdp4MrK6gweKXF9e/snv2+FU/PTfv0RrqbiqomravCJXOzpT/U5hBrOQFP+9QU5+dZxneuC2KHdFtA==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "icono": "https://i.postimg.cc/QCrmj3xL/awtv.png"
       },
       {
-        "icono": "https://i.ibb.co/M1tmcNd/1454129-middle.png",
-        "name": "RECORD NEWS HD",
-        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7LxIhXxmpHXxY4+YbqCm0eTYDYj8svsRH91VyQgaNmW1"
+        "icono": "https://i.postimg.cc/GhCx32Wk/download-14.jpg",
+        "name": "RECORD ",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "bxZurMolN9WPlbPInITxGykd+sfGfchVDpfC5jZ2D95zNBsUqOysc18hXf857tNfCSBzb1AGp8i6k94WzX++1TU32sWHm4f8/p2T2hIrjMU="
       },
       {
-        "icono": "https://i.ibb.co/RpFmLxB/png-transparent-redetv-rondonia-television-channel-sistema-brasileiro-de-televisao-tv-television-tex.png",
+        "icono": "https://i.postimg.cc/85wczdN9/download-32.png",
         "name": "REDE TV HD",
-        "uri": "F5uAFaur37Q7RFGfvJzrDICTBXLClH6RwMslgrKhJrIiTcsn5JueUSWJXzIL55T/MAGRj+O8iqTgM6JogQAXNqMAisbqg7lfkFAoulE8hu9KqXLQn2iaVn2n8IrPl9Lb"
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "UMSxLwUQcUydg5HsXv6Fll9Hv9fvOFx+ffI1OZye8AAoH+mnqDDNhrSBeLl1jTrLlpnYCZEwV8EPSmIWAe+ZPI94d8MvvzcbBxxIPpcz8IpSsuYF58PrinxQjl7kZpoI"
       },
       {
-        "icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
-        "name": "TV NOVA PLAY HD",
-        "uri": "wgazxWgMGNJqCfjAk/UwwfrN8HRrj+YAn5dsOV6bde+oAe0Il+hxFzCt5me82a3PMj06WuwMKGWucI7ZtjHfhg=="
+        "icono": "https://i.postimg.cc/bJ0YFxZ8/download-31.png",
+        "name": "REDE BR HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "54782dxxASuIViy8TsusbwP2BMOg7BCNGSVgTO0+uGMD25av2Cv7vxQKnkBytcDhrmXTH7INrHslQoDDTUQ6LT326NQ+b1ttNvbz849RtJ9KqXLQn2iaVn2n8IrPl9Lb"
+      },
+      {
+        "icono": "https://i.postimg.cc/tRwytvSP/download-70.jpg",
+        "name": " TV MAIS HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "Ft1X8c0NRXn3sgVZfy+9y9Wu/YZSwu1c3aLoTq1TjuoKwkXFhwwzrffgnyePKqlEIg44tBmHysPm1cw2lIFx97gNPjgu3XKyBJlL2e2F/U4="
+      },
+      {
+        "icono": "https://i.postimg.cc/5tNmtgVx/download-30.png",
+        "name": " TV CULTURA",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "PRkWTZz2McTdEL1KmicjhrIZ4TdyufyHIBgEVKZRfVxmB9XnWvNmM5IAISMon75+Qb9BVtbKvFy1hmuo9eE1Uw=="
+      },
+      {
+        "icono": "https://i.postimg.cc/65x9SxzP/TVBRASIL.png",
+        "name": " TV BRASIL",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "zToiyl/kIXmkFZSVqlYdpU5lV+2mFk0S2uUURBO8Bnoa1f6Q4MWIMyLA30CY49NW"
+      },
+      {
+        "icono": "https://i.postimg.cc/8CRV11NH/download-67.jpg",
+        "name": " REDE UNIVERSO",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "DgBVNxEox69a2dpJ/oKM5LXtK8ofR2LdUH5GHLQFPT6WV4ENvw03BYhZkxkiD1owMj06WuwMKGWucI7ZtjHfhg=="
+      },
+      {
+        "icono": "https://logospng.org/download/gazeta/gazeta-2048.png",
+        "name": " GAZETA TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "origin": "https://embedtv-2.icu",
+        "referer": "https://embedtv-2.icu/",
+        "uri": "4b92k01AAxd/FIx0M5DiinJmx58/GRgeXkCo5tTHrrKzEiknJuIgpD/6EmFU3Rq3smhc73da2ck9HSSs2i0KyEug60o7QD9zKSEQ8cqqV6Sw/snl6uggZDF+rDILeGQS9dbeayH00J3n0an9KZed6/vqUMMb7j0JcN4/N3Bjh0QP8/b7cvD5cErVOTUTVa3XmwUDQf8HsAR+ArWlYBtcpd3dd8yBjwu45TDeitFpZ87LoJYWGk9VHo+D+Oq30I4NiuNm5K+091DSDUEwgdVKWw=="
+      },
+      {
+        "name": "TV ARACATI BRASIL",
+        "uri": "Son+MIhkXyjf/jn9+J+i4AP2BMOg7BCNGSVgTO0+uGNX86us+HKmXcj2zIp+1cCS9NMQ5Mx0WIk47A9wPKIYP/IKTePRIY7vsHnVWiWQbjq2U+8VyonFi/ZySPWC6Wp9",
+        "icono": "https://i.postimg.cc/j2gLHgYh/TVARACATI.png"
+      },
+      {
+        "name": "TV METROPOLE ",
+        "uri": "5WCA1oILtGm3xAyKeOXBAD7Js6C1hOnXCVGk9UyLYsTBqBl1ZOSsHDt7Ruzz21WPSx7/ONZMF1k9Ikem5v4tZhyMkwV+hLi/T8/A/e0ywEFKqXLQn2iaVn2n8IrPl9Lb",
+        "icono": "https://global-fibra.com/_nuxt/img/tv_metropole_logo.f79cdf8.png"
+      },
+      {
+        "name": "PORTO ALEGRE 24HS BRASIL",
+        "uri": "Q55O2CJv3Bt/WoSs3r+fktCOvHyTms+5Tl9TL/gd+hJaYzc4Vhqeh4f9LUlfwsat",
+        "icono": "https://i.postimg.cc/ZqSwY3hR/TV-Pop-Tv-BRASIL.png"
+      },
+      {
+        "name": "PLAY TV BRASIL",
+        "uri": "9SJABd2oiDMhhuWZBqjbTjVbx/6+wg4tsvoxt+PBewtrc0nikoR/++Uz1Ra9zwUi63y6Icj1ZFVYbxgNG4OTn7ZT7xXKicWL9nJI9YLpan0=",
+        "icono": "https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png"
+      },
+      {
+        "name": "REDE MUNDO TV BRASIL",
+        "uri": "Son+MIhkXyjf/jn9+J+i4AP2BMOg7BCNGSVgTO0+uGNrz/0a/6kI0pht/Uct57pRJwCabuJIToSAqsdsEcXVjwrPpQRSpQ5T/3qdVzfAayi4DT44Lt1ysgSZS9nthf1O",
+        "icono": "https://i.postimg.cc/T1qjhNjQ/REDEMUNDOTVBRASIL.png"
+      },
+      {
+        "name": "XTREME TV BRASIL",
+        "uri": "vBOt7qSOjqlmind+7+t/lpJ53UmeQowUy8VH4dQOoPoCg14qQb2D1GY9O/FbQYw0TuF3SAPDJvu2g0IuYSVXhQ4WElvGtxIFWzWHH+OSK3c=",
+        "icono": "https://i.postimg.cc/Fz2pJkwH/XTREME-TV-BRASIL.png"
+      },
+      {
+        "name": "ANIMAX BRASIL",
+        "uri": "B1tnsvWmWbrqEEy8GILiVTNwWCY4CZJOkfgxJPS5r/NeVFWcOxtRU9ClQpZO+eGcRrpMjtRJwyPRStnCIildyw==",
+        "icono": "https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png"
+      },
+      {
+        "name": "RETRO CARTOON BRASIL",
+        "uri": "cpJMLbq4h5cjBNjfJmqbyQZLNcM3dVTxWQzsIjs1Dloca6Q1WR1WxilTZv8m5LbTAAPZQXRaeLD1/5XCn4rLaaHdmqzOX/qePRqaZzBtcxI=",
+        "icono": "https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png"
+      },
+      {
+        "name": "SONY CINEMA BR",
+        "uri": "6nkrYvCmYrT0AQt6A+OfpukNs/l/A0kVtTLgE4Fln5HyfIadIB+96BNP3peyYUrdzbAftNkwlJSWhAv23gZRsw==",
+        "icono": "https://i.postimg.cc/T2yZhVDq/sony-one-BRASIL.png"
+      },
+      {
+        "name": "CINEPIX",
+        "uri": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTFOoz+MFypqcFJEzCvLuceA==",
+        "icono": "https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png"
+      },
+      {
+        "name": "24/7 RUN:TIME TV E FILM BRASIL",
+        "uri": "+tReKO1G5iNc3ZSrEnAdATvkTSZcUNVOR9+HJ+kfTddNdUCa1OymaJkhJD0mlGPYo4O4vZTtxMPIU2wSvu9MhBT/vUFOfnWcZ3rgtih3RbQ=",
+        "icono": "https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png"
+      },
+      {
+        "name": "24/7 RUN:TIME COMEDIA BRASIL",
+        "uri": "WxJ7GzNltVsbQzaWbyiyTTvkTSZcUNVOR9+HJ+kfTdfQVSFKUU75cIZvDLHea+4wHU7bF/XVeWfeBE5TO29qDA==",
+        "icono": "https://i.postimg.cc/g08xYXH7/RUNTIMECOMEDIA.png"
+      },
+      {
+        "name": "24/7 RUN:TIME FAMILIA BRASIL",
+        "uri": "EpzC4t+Gc5tTYTnHTaRUZW5OAGM2v7zkHFHLOEN0DUbS9uUnjKtR5SYxoWBsp574IHdMbuW2hisEERd4C3toxQ==",
+        "icono": "https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png"
+      },
+      {
+        "name": "TVCIDADE 10 BRASIL",
+        "uri": "Ju68QPRGgBV9yF34lAMa0gP2BMOg7BCNGSVgTO0+uGNaXEIuaNboN1PlAC9jGIjH/gGjKkFDLvEK+LqN256mDKxJA8RRnxN4AKVf6cmRqEYU/71BTn51nGd64LYod0W0",
+        "icono": "https://i.postimg.cc/zDbG5RDk/TV-Cidade-10.png"
+      },
+      {
+        "name": "RS SPORTS BRASIL",
+        "uri": "KmjNVqwkrquOkkq7HxsqzgP2BMOg7BCNGSVgTO0+uGPv0v45RhWyhmDsVNhEX9FQ3CwbFwSTFxdiaBVEjEmn7kqpctCfaJpWfafwis+X0ts=",
+        "icono": "https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png"
+      },
+      {
+        "name": "RS NEW SPORT 4 BRASIL",
+        "uri": "KmjNVqwkrquOkkq7HxsqzgP2BMOg7BCNGSVgTO0+uGO25rkxy5k9uVQZwTXXaZMxwTR+JNw23CUm2vqh+5/EjUqpctCfaJpWfafwis+X0ts=",
+        "icono": "https://i.postimg.cc/T2mCZCb1/RSSPORTS4BRASIL.png"
+      },
+      {
+        "name": "TV SHOW DE BOLA BRASIL",
+        "uri": "H6jrxoGYPG+17V3ZOofeRePyuSY96+2Q6UTNlyuoqXxRO4M4oia85+KHNUWR+0HuLylFdg2hX6rrO9Ak/M5iyg==",
+        "icono": "https://i.postimg.cc/13Zxk84D/TVSHOWDEBOLA.png"
+      },
+      {
+        "name": "TV ROCK BRASIL",
+        "uri": "KmjNVqwkrquOkkq7HxsqzgP2BMOg7BCNGSVgTO0+uGO36MuTdkcaj5Q+AHj9ID0jQB1iYsidygQnrP6pPdnBjPm5FxfRZGj8rHi7vX1L6sc=",
+        "icono": "https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png"
       }
     ]
   },
