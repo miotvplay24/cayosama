@@ -6374,10 +6374,23 @@
         "name": "DW EN ESPAÑOL HD",
         "uri": "WJV8bqurAK7+F3RgM8Jvgvn7jrmwD8REKqdsP9e/Q8jby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZ8G+qvwGDpWNHuM8L8mo9DHnLbiZbocGFlgWemAgmksqBwBMjuJI9qSWFv2AiGo1lchDJeGiBpl8sVWLSMfIAIDcBfMz0ln2LDAanKshS9kaQZgdESsx+v/zRcojL+CBRbSYBaQOa7mvFVyRuD0KLgNAKfUff2wpGGKKRdkOsrlWF2pQQRwkxCUvzKoyXtdcSEwphlXWT1EBlts7tlC4+w6S3b1UnK297Hv+lJDArmay6nt+8PV8EgpMZSbAEIF8CCA/BR4U2I8hszjlCDmymQRohM2TuUFzf+br/WH2yWEGdFXAOev7di58JqWJBDxmj/tVrZmMoNTUPgHcbvjSelc/YPuwWYfEOcsgAzZepCdkwlAqPbZsSWic2H0c5d4dNscVyMU7uHItpgLviwiO2DalBkkAj4RUEKUhLJRoCywo+EhjWBEQJuvpGEvuJkfDvuCKaJYkP5mVxBPwe5Qlz8WqlwtpmzMPYZM5RRG5+YG6/3bv8yhEbucdmAu+VBlgxenoZ41vOcb+DucIR+PFaegvBNPi78hSSLRRxxORDCcqKyVTaGuSAI6JMU5fwTsPUFJZxNcuAkaxcoAT28bnYbjZ6k0CUyzeRZzxALfTo+APtbg559td+tFNMOkRo0OLv5b8UWTK3aCrIVGy4uqVgg3L2pFpL7NyX7BZTWlWQDeg==",
         "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.ar/",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVffn/rlY2PPB4fn2Z7en5Xu6RhXO5YzRRW80KVErDPMoWkWtEN2Nfsu9hC9Kzeqps9PDpvHetafTopX9FRz/EEiGetF1ergQGdv2i7Ck2B6yPk0ISjGZnTkD0Z+Jkq2uQ=="
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVffn/rlY2PPB4fn2Z7en5Xu6RhXO5YzRRW80KVErDPMoWkWtEN2Nfsu9hC9Kzeqps9PDpvHetafTopX9FRz/EEiGetF1ergQGdv2i7Ck2B6yPk0ISjGZnTkD0Z+Jkq2uQ==",
+        "headers": {
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "origin": "https://web.app.flow.com.ar",
+          "referer": "https://web.app.flow.com.ar/"
+        }
+      },
+      {
+        "name": "Warner",
+        "uri": "VcRrf7V00Jqd9KzezTWMhP/DRDzdwCi17h0vNOPpjmai0odX8PEvhAxVizzSrv46n2kSxcquHpaDD4SXjd0U1QJ4eIbc9ZH8924TLSlTRwM=",
+        "icono": "https://i.postimg.cc/28P3mH5w/WARNER.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcQTwGbzTb00RIE0A2Q/q+fFRnzoPumWZFTiuZGGmhKX0yEqfs54+fdpBycMzy8CE9a9bA2ACd/Q8TxdxFZ1h8/cwtX07NRj/WvPhQOKYkwHAirLidVgQ0Z+/2XHjXZGuQ==",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
       },
       {
         "icono": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DW/EXPORTACION_WEB/SS/DW_t-290x163.png",
