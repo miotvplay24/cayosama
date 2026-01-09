@@ -6382,13 +6382,13 @@
         }
       },
       {
-        "name": "Warner",
-        "uri": "VcRrf7V00Jqd9KzezTWMhP/DRDzdwCi17h0vNOPpjmai0odX8PEvhAxVizzSrv46n2kSxcquHpaDD4SXjd0U1QJ4eIbc9ZH8924TLSlTRwM=",
-        "icono": "https://static.flow.com.ar/images/-/-/0/0/328439030716.png",
+        "name": "Punta Alta Visión",
+        "uri": "VcRrf7V00Jqd9KzezTWMhEK1BepeLuykYQl75/NEFQPziQPu+dQ1uL4s53Ox+lERAX68TKXbvsA1IJkQ4IR8IA==",
+        "icono": "https://i.postimg.cc/kXzKnjSn/PAVPUNTAALTAVISION.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcQTwGbzTb00RIE0A2Q/q+fFRnzoPumWZFTiuZGGmhKX0yEqfs54+fdpBycMzy8CE9a9bA2ACd/Q8TxdxFZ1h8/cwtX07NRj/WvPhQOKYkwHAirLidVgQ0Z+/2XHjXZGuQ==",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRVzq9c8Es5jii10iLgCZUzEtz39+QoVG4gz60RV37xxHYvYQSTQDSNVK9s1hgkhrvpxv+ipG1Lz6z+3n+fZZlDLLqYZVoN5aX/33w3cj5aBDlPdD8oQrukPgS0cNZg27A==",
         "headers": {
-          "referer": "https://player.sensa.com.ar/",
+          "Referer": "https://player.sensa.com.ar/",
           "webtoken": "1.0"
         }
       },
