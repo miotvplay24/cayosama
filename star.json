@@ -6384,11 +6384,11 @@
       {
         "name": "Warner",
         "uri": "VcRrf7V00Jqd9KzezTWMhP/DRDzdwCi17h0vNOPpjmai0odX8PEvhAxVizzSrv46n2kSxcquHpaDD4SXjd0U1QJ4eIbc9ZH8924TLSlTRwM=",
-        "icono": "https://i.postimg.cc/28P3mH5w/WARNER.png",
+        "icono": "https://static.flow.com.ar/images/-/-/0/0/328439030716.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcQTwGbzTb00RIE0A2Q/q+fFRnzoPumWZFTiuZGGmhKX0yEqfs54+fdpBycMzy8CE9a9bA2ACd/Q8TxdxFZ1h8/cwtX07NRj/WvPhQOKYkwHAirLidVgQ0Z+/2XHjXZGuQ==",
         "headers": {
-          "Referer": "https://player.sensa.com.ar/",
+          "referer": "https://player.sensa.com.ar/",
           "webtoken": "1.0"
         }
       },
