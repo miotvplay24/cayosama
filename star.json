@@ -6393,6 +6393,17 @@
         }
       },
       {
+        "name": "espn",
+        "uri": "VcRrf7V00Jqd9KzezTWMhP/DRDzdwCi17h0vNOPpjmbW20dcVPgbRf+J3kGcFrnEPIRGUKBIFXF75CcsZZeG7w==",
+        "icono": "https://i.postimg.cc/5tqCWhhm/ESPN.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLTkxttXxuUqqw5yc9iS7yWHkxpwx3Tj8zc8IBNinRJqcoFyzLqcXjKDLcEIWSOEzZnNM7eHj8ur7/xBH+x3/3Oq6Mx6lpyWcLquWkr2YQluFM/BEZdId6cw/phKH7dhCNA==",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
         "icono": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DW/EXPORTACION_WEB/SS/DW_t-290x163.png",
         "name": "DW EN ESPAÑOL",
         "uri": "BEOddtqHSmgR+cNOpgwt8k835up1pnuYZpxEi7DlikqtAfRX8hra6qPyN8rkMqGUYl8xRKxOHOb5EkLEPxCA9lebCg2kbQam1lN2taqYMW0="
