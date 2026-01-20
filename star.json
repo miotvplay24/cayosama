@@ -204,6 +204,16 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyA_j8kea0yf0CH529Q0Ye9PxxksrygP196QOMX7-ZQ&s"
       },
       {
+        "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png",
+        "name": "TELEFUTURO HD",
+        "uri": "EzkHA8xj1rOHiuHE4whyRyhO3mI8lBAN7IZeiTGcsQwGgZN2Z9MLt/1sMZ0b7v7O7aznYHoyf+8ifKrObOkeH8p+PX1cI5e9//i/G1uWcYrYT9BJLByXQ4J/XAazhjAWOf6urdgeSzxo/t93kAUtnYssJJFBTvA29yTba83ElnsYOC138u2cw5XYsqZQhaA+",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "origin": "https://portal.app.flow.com.ar",
+        "referer": "https://web.app.flow.com.ar/",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLWzjDULU9hEN3GKdRQHzxF4zF1Kitu4wPaK6+jWubX+FYRm+G/ov+472dRQIk2yqclHCblPdes7lBsvUgsZn4ZTYvMgnfVq9a56E7lTEGO6RoI1GB0nb55WrEcCjCkTaqA=="
+      },
+      {
         "name": "EVENTOS URUGUAY HD 2",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
@@ -6209,16 +6219,6 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://web.app.flow.com.ar",
-        "referer": "https://web.app.flow.com.ar/",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVffn/rlY2PPB4fn2Z7en5Xu6RhXO5YzRRW80KVErDPMoWkWtEN2Nfsu9hC9Kzeqps9PDpvHetafTopX9FRz/EEiGetF1ergQGdv2i7Ck2B6yPk0ISjGZnTkD0Z+Jkq2uQ=="
-      },
-      {
-        "icono": "https://static.flow.com.ar/images/-/-/0/0/328439030716.png",
-        "name": "TEST",
-        "uri": "EzkHA8xj1rOHiuHE4whyRyhO3mI8lBAN7IZeiTGcsQz5kbuWO9n48YBODl+LTC283QAB5ANH71IAqCNzWviYKBHN14ztDSHJllWsGQIUZxg=",
-        "drm_scheme": "clearkey",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "origin": "https://portal.app.flow.com.ar",
         "referer": "https://web.app.flow.com.ar/",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVffn/rlY2PPB4fn2Z7en5Xu6RhXO5YzRRW80KVErDPMoWkWtEN2Nfsu9hC9Kzeqps9PDpvHetafTopX9FRz/EEiGetF1ergQGdv2i7Ck2B6yPk0ISjGZnTkD0Z+Jkq2uQ=="
       },
