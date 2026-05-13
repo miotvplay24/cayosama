@@ -4,17 +4,17 @@
     "samples": [
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 1 ",
+        "name": "EVENTO 1 ",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://www.tigosports.com.py",
         "referer": "https://www.tigosports.com.py/",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2v3qpIkljmse1kdfByZdiDpN1DWDB3xUA+Tq3S96bLQ91JeUXYSoHuUc8a9bbmf1/0itYGFw+mp6NCsGKYvN5qQ3ULJ2soKPj5KRWunwaaLWP8sNM6G5jvhOHCqiN1+lBbZT7xXKicWL9nJI9YLpan0=",
-        "uri": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDPAi1RPOB6OhIM+cGi73z8nJowXd/HT3PlMqVf/t1elxY68sG9gTA3UD0bqjvU2DbjyDVS5CBbZ+xCfG++BBCww=="
+        "uri": "4Ac/TQQNYjWfarkwJreo6WmbBu8kXhx+XoYF/KNf8iVblFsPjt05bIfZOtR/PzZntBU3F+QWliQ/VJ9nelYE5KhgvPsP4rVsYC7AmZD9fJYU414MeT4JAd74YckVTfuf"
       },
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 2",
+        "name": "EVENTO 2",
         "drm_scheme": "clearkey",
         "user_agent": "Firefox",
         "origin": "https://www.tigosports.com.py",
@@ -24,7 +24,7 @@
       },
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 3",
+        "name": "EVENTO 3",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://www.tigosports.com.py",
@@ -34,17 +34,17 @@
       },
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 4",
+        "name": "EVENTO 4",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://www.tigosports.com.py",
         "referer": "https://www.tigosports.com.py/",
         "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0I10uG60+YoKa2t5iiI0SI6GK6E8JJe5hPqjpC/RLCUGLylJfH0/nE9evXWi8FTdsaZwoCHsRqJieKdWEfMCROLzdm5JRLxP/CktqrP7hrsK7ZT7xXKicWL9nJI9YLpan0=",
-        "uri": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhblFsPjt05bIfZOtR/PzZntBU3F+QWliQ/VJ9nelYE5KhgvPsP4rVsYC7AmZD9fJYU414MeT4JAd74YckVTfuf"
+        "uri": "4Ac/TQQNYjWfarkwJreo6WmbBu8kXhx+XoYF/KNf8iVblFsPjt05bIfZOtR/PzZntBU3F+QWliQ/VJ9nelYE5KhgvPsP4rVsYC7AmZD9fJYU414MeT4JAd74YckVTfuf"
       },
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 5",
+        "name": "EVENTO 5",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://www.tigosports.com.py",
@@ -54,7 +54,7 @@
       },
       {
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "name": "EVENTO PARAGUAY 6",
+        "name": "EVENTO 6",
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://www.tigosports.com.py",
