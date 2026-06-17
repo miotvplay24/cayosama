@@ -80,7 +80,7 @@
       {
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
         "name": "GEN TV OP2",
-        "uri": "lDg4zH0taQzbjcJ6t61gFptF85PwzWEZgKcV1xib6GuV1jykKmofq2ueuUABR5kzuBdd2vGHCMORz6xXxpsEWq21o4akciXAFGL12CStjnWxp4NUxOQ98kuBqUNNLGly"
+        "uri": "7nhUtI0QUk46O3hWiSyFN4Aaei2D2jASKGd6rVpJo0ft+PzLyt9CvS1Y4n+PMxUgFP+9QU5+dZxneuC2KHdFtA=="
       },
       {
         "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
@@ -91,6 +91,11 @@
         "origin": "https://portal.app.flow.com.ar",
         "referer": "https://portal.app.flow.com.ar/",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5yE7cSCSNa+lN1byTMfKL5AJMCbcJtwmgfI8efg7tKwLXGsUREaygsGOHh9AnPJ9D+TAuYCk9+N79YgUx2eTQBgIERobvCHkXwQ8t8pC3cxtZi148vm8pvJRfKvhwt6SHA=="
+      },
+      {
+        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
+        "name": "TRECE PY",
+        "uri": "bDkjpF3dDyOuPi4gtEdP2/t+fwkUNEjeQu8KGB7ep7WU6g4/xXfu3tX4oSvVGoRigR4/QpN4G+4Exv6vjvBajWuoEbEfIJ1KE2lhRfGcxo3Ci39EpxHes7EE/m+RD9z1hWvQlYnNw2kL5fkzl3c619RtyEylppd9wSVpxzDt/LXGcg/5Fe4jxArhQ6+PlD1LGtj5yZSec527GAlFVmAzQIGQFXNxGckYNU6xx7Jy/B2utn7tX7cocScghHau/vwVTZcBE8ehkUhqy1L7urDDWw=="
       },
       {
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
@@ -115,7 +120,7 @@
       {
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/POPUTV/EXPORTACION_WEB/SS/POPUTV_t-290x163.png",
         "name": "POPU TV HD OP2",
-        "uri": "rJnQyglgmQgrzRk1UBO/Gu91Gqm3jnYee5QRVapbZKvIYR+o6PJzSWCPe7YhNDPvlivSHSaOjFRXcB/g91QJ62MDaxkEb3OfniIc5T1grCOCXpTOWn/WXsGdV77NMuFZ"
+        "uri": "4Z6OpuG5S1BZanr+hgXgM4QpsJAwyxoSjtmhO5TF/JeGdD0w2KJgGj9PFxbDX3AKrJWG8DWtaDjdKLav4uj26ywZ3juPJoP0CVUdcN3RBUCq7oBaGZ7IDZQZn7krd/01"
       }
     ]
   },
@@ -291,8 +296,8 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://portal.app.flow.com.ar",
-        "referer": "https://portal.app.flow.com.ar/guia-de-tv",
-        "drm_license_uri": "V6vw/HJGGqO+FOopju27/0Ev1Sfh8AXS7wSBCnht7MA6oC1q7rIWYhnmBMJjvdvWxoqm6QPoLADcCVSetQXziNeq+J4ELMsUw/il9bBRtpj4vw2HnqYUcDg4Xg30sq0pkEV7nTeVPGWNQobyTgEg8g=="
+        "referer": "https://www.tigosports.com.ar/",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwK+/IeeP/+7sjapGvOfLYACJ6t+VrA3eRp+xlVUlc9zUjEq7Hht7ZnljPUKoT30UcWhjpbFSL1/P3mydURHhI+hvZ0oNe+9rN5oZML9RbK2w=="
       },
       {
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELEPY/EXPORTACION_WEB/SS/LATELEPY_t-290x163.png",
@@ -306,7 +311,7 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://portal.app.flow.com.ar",
-        "referer": "https://portal.app.flow.com.ar/guia-de-tv",
+        "referer": "https://www.tigosports.com.ar/",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5yNRzJsSQudfo5WEYQXjmGx+RBNdP4d3f5OM81bBzO4atGswBXJ6l/poW12LxYN62xCW6b8fVEKSc8ETUBcSbnCUfzVhaZ5vbR6Veb3ckOI/RvopIKqiprEkqYRyPgv17Q=="
       },
       {
@@ -1508,7 +1513,7 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://portal.app.flow.com.ar",
-        "referer": "https://portal.app.flow.com.ar/guia-de-tv",
+        "referer": "https://www.tigosports.com.ar/",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+57e9nmhvqPbNrUqkRg3PV8UpV5fyYDSZxjgusluXoX5/x+c+z59WWW36z4inw7y+lVXvYzGQz06s1CI83XLH38cWq38gOUrYiV5AYAAyGtYEmfD6VbUY80NiBj8KAlPENQ=="
       },
       {
@@ -1518,7 +1523,7 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://portal.app.flow.com.ar",
-        "referer": "https://portal.app.flow.com.ar/guia-de-tv",
+        "referer": "https://www.tigosports.com.ar/",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5wIGoey1nNRa6IYDjvYUELBiK7zDC9odW8s+ovhPHzGxvr9VP5NyhpNpSC5U6jEU77kSXEnQLqknLWbO7Wh2XwxBtuiWkF1LmmPPViNZuzVXZi148vm8pvJRfKvhwt6SHA=="
       },
       {
@@ -1528,7 +1533,7 @@
         "drm_scheme": "clearkey",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "origin": "https://portal.app.flow.com.ar",
-        "referer": "https://portal.app.flow.com.ar/guia-de-tv",
+        "referer": "https://www.tigosports.com.ar/",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+55fjPCTsj+ffM34K+BmTpFM6ep0qZJYVq2i1GFWMhLpJU3UKf5OVKE7/mOXxe/mGycP+n6WzEA3fssfM5COQ6k7JRv9q3TB4xncMM8ThMzXOmfD6VbUY80NiBj8KAlPENQ=="
       },
       {
