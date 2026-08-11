@@ -1476,13 +1476,23 @@
       },
       {
         "name": "DIRECTV SPORTS",
-        "uri": "V4MmN8SMMGONJ+tGeeImBULLRUQ6s41aM7HRlnvze1l2jZQzxBKIMtgApiA56quZjvrcWMAE6mrZJKhYp65AQIydnQRHx5ikKKyn+l+MPItBVWJ3zRKXt17vxve91u/0wZAyqNcs0m0hHRvL8CRSyXO0TLFd/GmkBf41gnimBQk3oUrDrHI9oxl+slQGWQtUKqitPCQ93r5JYM6D2XxzPg==",
-        "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png"
+        "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
+        "uri": "WJV8bqurAK7+F3RgM8JvgntDPTFwXXXoEs1mBgihoQDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNka9sory0BjOYly7XlA2u2ljmTQLTv0HxBvCsCbRPwZOVLlt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y7dR3cPwy6SGmvud1CWWneFnBTEFaV6m04x98bSGep+d1hOjgxum69tYiq7cNJ+9kMJG+pBly8xsRpDBYe/Q/HNabcUZunax9wtK1GvsPzDLS4TKoFcc9A/VmFK8XvXnHGVUN57YvcbvS3QG9tO0COjH96P59H05ZaaYOvJk157+uK5D84UeCPWq3I6yPSqdCvKiT8KQ6/iddEFQmxQz/+ombcJzNmIBDv/vh3YxovlFUITK3WKXkqVRxOfg50DfYwAH83v+Of5Jx+Vvfn8uqo/DiPR1jttM2HFvqTHFZfCTsxGiW0DGXSQI7XWIAWYEto/9fseSCBRNTmqBQvEpM/KADp5sIxekuOSlYYaY5lVSxrxwotZnRV881YHXQ1NWi9xNckqtojuiBtVxfZqAJ0RbcaWP2ujvL5cY2P/KgfnnDAhSvTo6v0kKGMBl5oQKpk7gw72QMZV5H6Ee0ntWJBWm7PDVewWJriNA0JCmI5BQloRdeXorMF74l2LbfT5AxDwcbod+PDIsFXzw4vVrUf7A1Nhby15tqGdxoZZAL7z67eFiBmevpYBulxpGaBC5D2Vw4vrkXvBFkPyfmeZamvRjo29d0SCahZKqayuvq32VxCYuV0A1W+ay2JbG3rRwDwd4ah4ncCQzSstu9ZpZ6lz5gtf7FKZ6N4IUfWIbKKSM0TMAWWclTZurR61kW2H9Iqb9ztfUVRZTF4SG1FiPXhnCito2KSQzvZhKSOQO1Kt1qcmOX/fqhQMtsSim77+QCqHIuQjQOCsobrjIEhOBpYGyxxVsWJj247n6kWLA5hvpE=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "origin": "https://portal.app.flow.com.ar",
+        "referer": "https://portal.app.flow.com.ar/",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvxf57FGPesIpyf47J5utZhcJgQ+OnAcQ+72escmxaGW/z2WbEoRl206LwlZAeidru38x9W6YU54yAildoxaFwYM31zhZcMyLYtnrss7y69lgg=="
       },
       {
-        "name": "DIRECTV SPORTS 2",
-        "uri": "mx3mA2urPwSwZrk7iUSaNlNjHCahuYXOMOJysiO63YGoxXhvrBJoVL2cPI2Cnd4W",
-        "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png"
+        "name": "DIRECTV SPORTS Op2",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "uri": "Cqcqz65E/sJudGRwlrA0MX3uBuB6Fy9oaZbOWw623Wjn6qglSEfbZiD1xhE7SR0RXxjaCiHPrUQ9D5mQ0M+/kI4eq7ln8Tckhc8JS9GI/92xdAQDJgPc+cMJRkm4M1AOreEA2Yn6pUDm7hAUDN0P5kc9QskS2iqOA5ZCMqfmKL0=",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "origin": "https://portal.app.flow.com.ar",
+        "referer": "https://portal.app.flow.com.ar/",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvzkfgl7LF2oKmzUJM9OJ9MQ+mXrOyzdOauMJhSdNIHh+Pw0UFyduGpIox3qKvUOoH1ikExV90FXJ77xzCHGHd7H+jJml/+ynpXrR/P8oICT0Q=="
       },
       {
         "name": "DIRECTV SPORTS+",
